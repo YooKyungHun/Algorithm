@@ -1,9 +1,15 @@
-n = int(input())
-p = [0] + list(map(int,input().split()))
-dp = [0 for _ in range(n+1)]
+from itertools import combinations
 
 
-for i in range(1,n+1):
-    for k in range(1,i+1):
-        dp[i] = max(dp[i], dp[i-k] + p[k])
-print(dp[i])
+
+N = 5
+lst = [1, 2, 3, 4, 5, 0]
+for i in range(N):
+    comb = list(combinations(lst, i+1))
+    print(comb)
+
+print((1, 2, 3)[0])
+
+
+lst.sort()
+print(lst)
