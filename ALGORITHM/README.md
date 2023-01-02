@@ -1,4 +1,4 @@
-# 백준 알고리즘
+# 백준, PRGM 알고리즘
 
 | 문제번호 | 이름            | 레벨  | 분류                      | 1차    | 2차    | 3차  |
 | -------- | --------------- | ----- | ------------------------- | ------ | ------ | ---- |
@@ -25,11 +25,11 @@
 | 1235     | 학생번호        | 실버4 | 구현 / set                | 221227 |        |      |
 | 20152    | Game Addiction  | 실버2 | DP                        | 221227 |        |      |
 | ~~1120~~     | ~~문자열~~          | ~~실버4~~ | ~~구현~~                    | ~~221229~~ |  |      |
-| [3190](https://www.acmicpc.net/problem/3190) | 뱀 | 골드4 | 구현 / 이차원배열 | 221231 |        |      |
-|          |                 |       |                           |        |        |      |
-|          |                 |       |                           |        |        |      |
-|          |                 |           |                           |            |        |      |
-|          |                 |           |                           |            |        |      |
+| [3190](https://www.acmicpc.net/problem/3190) | 뱀 | 골드4 | 구현 / 이차원배열 | 221231 |        |  |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | 귤 고르기 | LV2 | Hash / dict / Counter | 230102 |        |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | 성격 유형 검사하기 | LV1 | Hash / dict | 230102 |        |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | 연속 부분 수열 합의 개수 | LV2 | 연속 부분 수열 | 230102 |        |      |
+|  |  |           |                           |            |        |      |
 |          |                 |           |                           |            |        |      |
 |          |                 |           |                           |            |        |      |
 | [1074](https://www.acmicpc.net/problem/1074) | Z               | 실버1     | 분할정복 재귀             | 221213     |        |      |
@@ -39,8 +39,8 @@
 | [2346](https://www.acmicpc.net/problem/2346)   | 풍선 터뜨리기   | 실버3 | 구현 / enumerate / rotate | 221230 |        |      |
 | [14425](https://www.acmicpc.net/problem/14425) | 문자열 집합 | 실버3 | 문자열 / set | 221231 | | |
 | [2579](https://www.acmicpc.net/problem/2579) | 계단오르기 | 실버3 | DP | 230101 | | |
-| [18870](https://www.acmicpc.net/problem/18870) | 좌표압축 | 실버2 | Hash / 딕셔너리 | 230101 | | |
-|  |  | | | | | |
+| [18870](https://www.acmicpc.net/problem/18870) | 좌표압축 | 실버2 | Hash / dict | 230101 | | |
+|                                                              |                          |           |                           |            | | |
 |  |  | | | | | |
 |  |  | | | | | |
 |  |  | | | | | |

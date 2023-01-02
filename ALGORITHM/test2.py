@@ -1,20 +1,11 @@
+from collections import Counter
 
-arr = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+cnt = Counter('hello world').most_common(2)
 
-# 시계방향 90 도 회전
-# arr = list(map(list, zip(*arr[::-1])))
-# [7, 4, 1],
-# [8, 5, 2],
-# [9, 6, 3]
+arr = [[3,2],[2,2],[5,2],[1,1],[4,1]]
 
-# 시계방향 270 도 회전
-# arr = list(map(list, zip(*arr)))[::-1]
-# [3, 6, 9],
-# [2, 5, 8],
-# [1, 4, 7]
+for b,a in arr:
+    print(b,a)
 
-arr = list(map(list, zip(arr)))[::-1]
-
-
-
-print(arr)
+type = {"R":0,"T":3,"C":1,"F":0,"J":0,"M":2,"A":1,"N":1}
+print(type[0])

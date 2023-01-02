@@ -195,3 +195,74 @@ SUBSTRING_INDEX()는 delim에 대한 검색을 할 때 문자의 크기를 구�
 
 
 
+## 강원도에 위치한 생산공장 목록 출력하기
+
+```mysql
+-- 코드를 입력하세요
+SELECT FACTORY_ID, FACTORY_NAME, ADDRESS
+FROM FOOD_FACTORY
+# WHERE SUBSTRING(ADDRESS, 1, 3) = '강원도'
+WHERE LEFT(ADDRESS, 3) = '강원도'
+ORDER BY FACTORY_ID ASC;
+```
+
+
+
+## **최댓값 구하기**
+
+```MYSQL
+-- 코드를 입력하세요
+SELECT MAX(DATETIME) AS 시간
+FROM ANIMAL_INS;
+
+# 시간도 MIN, MAX 적용가능
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
