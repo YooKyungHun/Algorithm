@@ -37,9 +37,9 @@
 | [7562](https://www.acmicpc.net/problem/7562) | 나이트의 이동 | 실버1 | BFS | 221214 |        |      |
 | [15565](https://www.acmicpc.net/problem/15565) | 귀여운 라이언   | 실버1 | 구현 / enumerate | 221230 |        |      |
 | [2346](https://www.acmicpc.net/problem/2346)   | 풍선 터뜨리기   | 실버3 | 구현 / enumerate / rotate | 221230 |        |      |
-|  |  | | | | | |
-| 2579 | 계단오르기 |           |                           |            | | |
-|  |  | | | | | |
+| [14425](https://www.acmicpc.net/problem/14425) | 문자열 집합 | 실버3 | 문자열 / set | 221231 | | |
+| [2579](https://www.acmicpc.net/problem/2579) | 계단오르기 | 실버3 | DP | 230101 | | |
+| [18870](https://www.acmicpc.net/problem/18870) | 좌표압축 | 실버2 | Hash / 딕셔너리 | 230101 | | |
 |  |  | | | | | |
 |  |  | | | | | |
 |  |  | | | | | |
