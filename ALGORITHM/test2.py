@@ -1,11 +1,20 @@
 from collections import Counter
+from itertools import combinations
+from collections import deque
+import copy
 
-cnt = Counter('hello world').most_common(2)
 
-arr = [[3,2],[2,2],[5,2],[1,1],[4,1]]
+# arr = [['1', '2', '3'], ['4', '5', '6'], ['7', '8', '9']]
+# lst = ['1', '2', '3']
+# print(arr)
+# for i in range(3):
+#     print(''.join(arr[i]))
+# print(''.join(lst))
 
-for b,a in arr:
-    print(b,a)
+# cl =  {'headgear': ['hat', 'turban'], 'eyewear': ['sunglasses']}
+# print(len(cl))
+# for i in cl:
+#     print(i)
 
-type = {"R":0,"T":3,"C":1,"F":0,"J":0,"M":2,"A":1,"N":1}
-print(type[0])
+while input():
+    print(input())

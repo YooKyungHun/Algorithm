@@ -8,7 +8,7 @@
 | 1057     | 토너먼트        | 실버3 | 구현                      | 221204 |        |      |
 | 10026    | 적록색약        | 골드5 | DFS / BFS                 | 221204 |        |      |
 | [1158](https://www.acmicpc.net/problem/1158) | 요세푸스문제    | 실버4 | 구현 / deque / rotate    | 221204 | 221231 |      |
-| 2447     | 별찍기          | 골드5 | 분할정복 재귀             | 221203 |        |      |
+| [2447](https://www.acmicpc.net/problem/2447) | 별찍기          | 골드5 | 분할정복 재귀             | 221203 | 230104 |      |
 | 11052    | 카드구매하기    | 실버1 | DP                        | 221211 |        |      |
 | 11726    | 2*n 타일링      | 실버3 | 메모이제이션 / DP         | 221211 |        |      |
 | 1004     | 어린왕자        | 실버3 | 구현                      | 221211 |        |      |
@@ -21,16 +21,17 @@
 |          | 안녕_s2         |  | DP                        |        |        |      |
 | 2156     | 포도주 시식     | 실버1 | DP                        | 221218 |        |      |
 | 12865    | 평범한 배낭     | 골드5 | DP                        |        |        |      |
-| 2225     | 합분해          | 골드5 | DP                        | 221227 |        |      |
-| 1235     | 학생번호        | 실버4 | 구현 / set                | 221227 |        |      |
-| 20152    | Game Addiction  | 실버2 | DP                        | 221227 |        |      |
-| ~~1120~~     | ~~문자열~~          | ~~실버4~~ | ~~구현~~                    | ~~221229~~ |  |      |
-| [3190](https://www.acmicpc.net/problem/3190) | 뱀 | 골드4 | 구현 / 이차원배열 | 221231 |        |  |
-| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | 귤 고르기 | LV2 | Hash / dict / Counter | 230102 |        |      |
-| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | 성격 유형 검사하기 | LV1 | Hash / dict | 230102 |        |      |
-| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | 연속 부분 수열 합의 개수 | LV2 | 연속 부분 수열 | 230102 |        |      |
-|  |  |           |                           |            |        |      |
+| 1244                                                         | 스위치 켜고 끄기         | 실버4 | 구현 | 221223     |        |      |
 |          |                 |           |                           |            |        |      |
+| 2225                                                         | 합분해                   | 골드5     | DP                        | 221227     |        |      |
+| 1235                                                         | 학생번호                 | 실버4     | 구현 / set                | 221227     |        |      |
+| 20152                                                        | Game Addiction           | 실버2     | DP                        | 221227     |        |      |
+| ~~1120~~                                                     | ~~문자열~~               | ~~실버4~~ | ~~구현~~                  | ~~221229~~ |        |      |
+|                                                          | 프린터큐                 |           |                           | 221229     |        |      |
+| [3190](https://www.acmicpc.net/problem/3190)                 | 뱀                       | 골드4     | 구현 / 이차원배열         | 221231     |        |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | 귤 고르기                | LV2       | Hash / dict / Counter     | 230102     |        |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | 성격 유형 검사하기       | LV1       | Hash / dict               | 230102     |        |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | 연속 부분 수열 합의 개수 | LV2 | 연속 부분 수열 | 230102 |        |      |
 |          |                 |           |                           |            |        |      |
 | [1074](https://www.acmicpc.net/problem/1074) | Z               | 실버1     | 분할정복 재귀             | 221213     |        |      |
 | 1978     | 소수찾기        | 실버5     | 소수(에스토스테네스의 체) | 221213 |        |      |
@@ -40,10 +41,10 @@
 | [14425](https://www.acmicpc.net/problem/14425) | 문자열 집합 | 실버3 | 문자열 / set | 221231 | | |
 | [2579](https://www.acmicpc.net/problem/2579) | 계단오르기 | 실버3 | DP | 230101 | | |
 | [18870](https://www.acmicpc.net/problem/18870) | 좌표압축 | 실버2 | Hash / dict | 230101 | | |
-|                                                              |                          |           |                           |            | | |
-|  |  | | | | | |
-|  |  | | | | | |
-|  |  | | | | | |
+| [7576](https://www.acmicpc.net/problem/7576) | 토마토 | 골드5 | 구현 / 이차원배열 / BFS | 230104 | | |
+| [14502](https://www.acmicpc.net/problem/14502) | 연구소 | 골드4 | 구현 / 이차원배열 / BFS / 조합 | 230104 | | |
+| [9375](https://www.acmicpc.net/problem/9375) | 패션왕김해빈 | 실버3 | Hash / defaultdict | 230104 | | |
+| [4358](https://www.acmicpc.net/problem/4358) | 생태학 | 실버2 | Hash / defaultdict / readline | 230104 | | |
 |  |  | | | | | |
 |  |  | | | | | |
 |  |  | | | | | |

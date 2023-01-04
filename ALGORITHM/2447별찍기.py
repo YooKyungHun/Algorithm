@@ -32,6 +32,6 @@ def func(N, row, col):
     # return
 
 func(N, 0, 0)
-
+# print(lst)
 for i in range(N):
     print(''.join(lst[i]))
