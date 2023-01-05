@@ -4,17 +4,30 @@ from collections import deque
 import copy
 
 
-# arr = [['1', '2', '3'], ['4', '5', '6'], ['7', '8', '9']]
-# lst = ['1', '2', '3']
-# print(arr)
-# for i in range(3):
-#     print(''.join(arr[i]))
-# print(''.join(lst))
+def solution(s):
+    answer = 0
 
-# cl =  {'headgear': ['hat', 'turban'], 'eyewear': ['sunglasses']}
-# print(len(cl))
-# for i in cl:
-#     print(i)
+    for j in s:
+        fst = j
+        fst_count = 1
+        other_count = 0
 
-while input():
-    print(input())
+        for i in range(1, len(s)):
+            if fst == s[i]:
+                fst_count += 1
+            else:
+                other_count += 1
+
+            if fst_count == other_count:
+                s = s[fst_count * 2:]
+                answer += 1
+                break
+
+        if i == len(s) - 1 or len(s) == 1:
+            answer += 1
+            break
+
+    return answer
+
+
+print(solution("aabbcddd"))

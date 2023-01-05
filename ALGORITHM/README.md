@@ -32,22 +32,46 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | 귤 고르기                | LV2       | Hash / dict / Counter     | 230102     |        |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | 성격 유형 검사하기       | LV1       | Hash / dict               | 230102     |        |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | 연속 부분 수열 합의 개수 | LV2 | 연속 부분 수열 | 230102 |        |      |
-|          |                 |           |                           |            |        |      |
-| [1074](https://www.acmicpc.net/problem/1074) | Z               | 실버1     | 분할정복 재귀             | 221213     |        |      |
-| 1978     | 소수찾기        | 실버5     | 소수(에스토스테네스의 체) | 221213 |        |      |
-| [7562](https://www.acmicpc.net/problem/7562) | 나이트의 이동 | 실버1 | BFS | 221214 |        |      |
-| [15565](https://www.acmicpc.net/problem/15565) | 귀여운 라이언   | 실버1 | 구현 / enumerate | 221230 |        |      |
-| [2346](https://www.acmicpc.net/problem/2346)   | 풍선 터뜨리기   | 실버3 | 구현 / enumerate / rotate | 221230 |        |      |
-| [14425](https://www.acmicpc.net/problem/14425) | 문자열 집합 | 실버3 | 문자열 / set | 221231 | | |
-| [2579](https://www.acmicpc.net/problem/2579) | 계단오르기 | 실버3 | DP | 230101 | | |
-| [18870](https://www.acmicpc.net/problem/18870) | 좌표압축 | 실버2 | Hash / dict | 230101 | | |
-| [7576](https://www.acmicpc.net/problem/7576) | 토마토 | 골드5 | 구현 / 이차원배열 / BFS | 230104 | | |
-| [14502](https://www.acmicpc.net/problem/14502) | 연구소 | 골드4 | 구현 / 이차원배열 / BFS / 조합 | 230104 | | |
-| [9375](https://www.acmicpc.net/problem/9375) | 패션왕김해빈 | 실버3 | Hash / defaultdict | 230104 | | |
-| [4358](https://www.acmicpc.net/problem/4358) | 생태학 | 실버2 | Hash / defaultdict / readline | 230104 | | |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/87946#) | 피로도 | LV2 | 구현 / 순열 | 230105 |        |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | 문자열 나누기            | LV1       | 구현 / 문자열                                                | 230105     |        |      |
+|                                                              | 주식가격                 |           | https://school.programmers.co.kr/learn/courses/30/lessons/42584 |            |        |      |
+|                                                              |                          |           |                                                              |            |        |      |
+|                                                              |                          |           |                                                              |            |        |      |
+|                                                              |                          |           |                                                              |            |        |      |
+|                                                              |                          |           |                                                              |            |        |      |
+|                                                              |                          |           |                                                              |            |        |      |
+|                                                              |                          |           |                                                              |            |        |      |
+|                                                              |                          |           |                                                              |            |        |      |
+|                                                              |                          |           |                                                              |            |        |      |
+|                                                              |                          |           |                                                              |            |        |      |
+|                                                              |                          |           |                                                              |            | | |
 |  |  | | | | | |
 |  |  | | | | | |
 |  |  | | | | | |
 |  |  | | | | | |
 |  |  | | | | | |
+
+
+
+| 문제번호                                       | 이름          | 레벨  | 분류                           | 1차    | 2차  | 3차  |
+| ---------------------------------------------- | ------------- | ----- | ------------------------------ | ------ | ---- | ---- |
+| [1074](https://www.acmicpc.net/problem/1074)   | Z             | 실버1 | 분할정복 재귀                  | 221213 |      |      |
+| 1978                                           | 소수찾기      | 실버5 | 소수(에스토스테네스의 체)      | 221213 |      |      |
+| [7562](https://www.acmicpc.net/problem/7562)   | 나이트의 이동 | 실버1 | BFS                            | 221214 |      |      |
+| [15565](https://www.acmicpc.net/problem/15565) | 귀여운 라이언 | 실버1 | 구현 / enumerate               | 221230 |      |      |
+| [2346](https://www.acmicpc.net/problem/2346)   | 풍선 터뜨리기 | 실버3 | 구현 / enumerate / rotate      | 221230 |      |      |
+| [14425](https://www.acmicpc.net/problem/14425) | 문자열 집합   | 실버3 | 문자열 / set                   | 221231 |      |      |
+| [2579](https://www.acmicpc.net/problem/2579)   | 계단오르기    | 실버3 | DP                             | 230101 |      |      |
+| [18870](https://www.acmicpc.net/problem/18870) | 좌표압축      | 실버2 | Hash / dict                    | 230101 |      |      |
+| [7576](https://www.acmicpc.net/problem/7576)   | 토마토        | 골드5 | 구현 / 이차원배열 / BFS        | 230104 |      |      |
+| [14502](https://www.acmicpc.net/problem/14502) | 연구소        | 골드4 | 구현 / 이차원배열 / BFS / 조합 | 230104 |      |      |
+| [9375](https://www.acmicpc.net/problem/9375)   | 패션왕김해빈  | 실버3 | Hash / defaultdict             | 230104 |      |      |
+| [4358](https://www.acmicpc.net/problem/4358)   | 생태학        | 실버2 | Hash / defaultdict / readline  | 230104 |      |      |
+| 17298                                          |               |       |                                |        |      |      |
+| 17299                                          |               |       |                                |        |      |      |
+|                                                |               |       |                                |        |      |      |
+|                                                |               |       |                                |        |      |      |
+|                                                |               |       |                                |        |      |      |
+|                                                |               |       |                                |        |      |      |
+|                                                |               |       |                                |        |      |      |
 
