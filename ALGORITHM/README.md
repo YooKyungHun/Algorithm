@@ -26,7 +26,7 @@
 | 2225                                                         | 합분해                   | 골드5     | DP                        | 221227     |        |      |
 | 1235                                                         | 학생번호                 | 실버4     | 구현 / set                | 221227     |        |      |
 | 20152                                                        | Game Addiction           | 실버2     | DP                        | 221227     |        |      |
-| ~~1120~~                                                     | ~~문자열~~               | ~~실버4~~ | ~~구현~~                  | ~~221229~~ |        |      |
+| ~~1120~~                                                     | ~~문자열~~               | ~~실버4~~ | ~~구현~~                  | ~~221229~~ | * | * |
 |                                                          | 프린터큐                 |           |                           | 221229     |        |      |
 | [3190](https://www.acmicpc.net/problem/3190)                 | 뱀                       | 골드4     | 구현 / 이차원배열         | 221231     |        |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | 귤 고르기                | LV2       | Hash / dict / Counter     | 230102     |        |      |
@@ -34,7 +34,7 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | 연속 부분 수열 합의 개수 | LV2 | 연속 부분 수열 | 230102 |        |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/87946#) | 피로도 | LV2 | 구현 / 순열 | 230105 |        |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | 문자열 나누기            | LV1       | 구현 / 문자열                                                | 230105     |        |      |
-|                                                              | 주식가격                 |           | https://school.programmers.co.kr/learn/courses/30/lessons/42584 |            |        |      |
+| ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42584)~~ | ~~주식가격~~             | ~~LV2~~ | ~~구현~~ | ~~230105~~ | .* | * |
 |                                                              |                          |           |                                                              |            |        |      |
 |                                                              |                          |           |                                                              |            |        |      |
 |                                                              |                          |           |                                                              |            |        |      |
@@ -67,7 +67,7 @@
 | [14502](https://www.acmicpc.net/problem/14502) | 연구소        | 골드4 | 구현 / 이차원배열 / BFS / 조합 | 230104 |      |      |
 | [9375](https://www.acmicpc.net/problem/9375)   | 패션왕김해빈  | 실버3 | Hash / defaultdict             | 230104 |      |      |
 | [4358](https://www.acmicpc.net/problem/4358)   | 생태학        | 실버2 | Hash / defaultdict / readline  | 230104 |      |      |
-| 17298                                          |               |       |                                |        |      |      |
+| [17298](https://www.acmicpc.net/problem/17298) | 오큰수        | 골드4 | 구현 / stack                   | 230106 |      |      |
 | 17299                                          |               |       |                                |        |      |      |
 |                                                |               |       |                                |        |      |      |
 |                                                |               |       |                                |        |      |      |
