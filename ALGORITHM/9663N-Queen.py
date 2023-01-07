@@ -1,10 +1,5 @@
-from collections import Counter
-from itertools import combinations
-from collections import deque
 import copy
 import sys
-
-
 sys.setrecursionlimit(10**9)
 
 N = int(input())
@@ -54,13 +49,3 @@ else:   # 홀수
     cnt = cnt * 2
     DFS([0, N//2])
     print(cnt)
-
-1차원 13092
-https://seongonion.tistory.com/103
-https://daeun-computer-uneasy.tistory.com/80
-
-2차원 20288
-https://velog.io/@inhwa1025/BOJ-9663%EB%B2%88-N-Queen-Python-%ED%8C%8C%EC%9D%B4%EC%8D%AC
-
-1차원 5092
-https://aigong.tistory.com/474
