@@ -84,6 +84,8 @@ ORDER BY AGE DESC, PT_NAME ASC;
 # IFNULL(A, B) - MYSQL
 A 가 NULL 이 아니면 A
 A 가 NULL 이면 B
+중첩가능
+SELECT IFNULL(column_name, IFNULl(column_name, '대체할 값')) FROM [table_name]; 
 
 # NULLIF(A, B) - ORACLE
 A 와 B 가 같으면 NULL,
@@ -217,10 +219,6 @@ FROM ANIMAL_INS;
 
 # 시간도 MIN, MAX 적용가능
 ```
-
-
-
-
 
 
 
