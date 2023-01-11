@@ -5,6 +5,7 @@
 | 1577 | 도로의 개수_s1 | 골드5 | DFS | 221117 |  |  |
 |  | 도로의 개수_s2 |  | DP | 221230 | | |
 | 15650 | N과 M(2) | 실버3 | 조합 | 221117 | 230110 |  |
+| 13565 | 침투 | 실버2 | BFS | 230111 |  | |
 | 1057     | 토너먼트        | 실버3 | 구현                      | 221204 |        |      |
 | 10026    | 적록색약        | 골드5 | DFS / BFS                 | 221204 |        |      |
 | [1158](https://www.acmicpc.net/problem/1158) | 요세푸스문제    | 실버4 | 구현 / deque / rotate    | 221204 | 221231 |      |
@@ -53,36 +54,36 @@
 
 
 
-| 문제번호                                         | 이름          | 레벨      | 분류                           | 1차        | 2차  | 3차  |
-| ------------------------------------------------ | ------------- | --------- | ------------------------------ | ---------- | ---- | ---- |
-| [1074](https://www.acmicpc.net/problem/1074)     | Z             | 실버1     | 분할정복 재귀                  | 221213     |      |      |
-| 1978                                             | 소수찾기      | 실버5     | 소수(에스토스테네스의 체)      | 221213     |      |      |
-| [7562](https://www.acmicpc.net/problem/7562)     | 나이트의 이동 | 실버1     | BFS / 최단거리                 | 221214     |      |      |
-| [15565](https://www.acmicpc.net/problem/15565)   | 귀여운 라이언 | 실버1     | 구현 / enumerate               | 221230     |      |      |
-| [2346](https://www.acmicpc.net/problem/2346)     | 풍선 터뜨리기 | 실버3     | 구현 / enumerate / rotate      | 221230     |      |      |
-| [14425](https://www.acmicpc.net/problem/14425)   | 문자열 집합   | 실버3     | 문자열 / set                   | 221231     |      |      |
-| [2579](https://www.acmicpc.net/problem/2579)     | 계단오르기    | 실버3     | DP                             | 230101     |      |      |
-| [18870](https://www.acmicpc.net/problem/18870)   | 좌표압축      | 실버2     | Hash / dict                    | 230101     |      |      |
-| [7576](https://www.acmicpc.net/problem/7576)     | 토마토        | 골드5     | 구현 / 이차원배열 / BFS        | 230104     |      |      |
-| [14502](https://www.acmicpc.net/problem/14502)   | 연구소        | 골드4     | 구현 / 이차원배열 / BFS / 조합 | 230104     |      |      |
-| [9375](https://www.acmicpc.net/problem/9375)     | 패션왕김해빈  | 실버3     | Hash / defaultdict             | 230104     |      |      |
-| [4358](https://www.acmicpc.net/problem/4358)     | 생태학        | 실버2     | Hash / defaultdict / readline  | 230104     |      |      |
-| [17298](https://www.acmicpc.net/problem/17298)   | 오큰수        | 골드4     | 구현 / stack                   | 230106     |      |      |
-| 17299                                            |               |           |                                |            |      |      |
-| [2002](https://www.acmicpc.net/problem/2002)     | 추월          | 실버1     | 구현 / Hash                    | 230110     |      |      |
-| [2178](https://www.acmicpc.net/problem/2178)     | 미로 탐색     | 실버1     | BFS / 최단거리                 | 230110     |      |      |
-| [15686](https://www.acmicpc.net/problem/15686)   | 치킨배달      | 골드5     | 구현 / 이차원배열 / 조합       | 230110     |      |      |
-| [1932](https://www.acmicpc.net/problem/1932)     | 정수삼각형    | 실버1     | DP                             | 230110     |      |      |
-| ~~[2839](https://www.acmicpc.net/problem/2839)~~ | ~~설탕배달~~  | ~~실버4~~ | ~~구현~~                       | ~~230110~~ |      |      |
-|                                                  |               |           |                                |            |      |      |
-|                                                  |               |           |                                |            |      |      |
-|                                                  |               |           |                                |            |      |      |
-|                                                  |               |           |                                |            |      |      |
-|                                                  |               |           |                                |            |      |      |
-|                                                  |               |           |                                |            |      |      |
-|                                                  |               |           |                                |            |      |      |
-|                                                  |               |           |                                |            |      |      |
-|                                                  |               |           |                                |            |      |      |
-|                                                  |               |           |                                |            |      |      |
-|                                                  |               |           |                                |            |      |      |
+| 문제번호                                         | 이름             | 레벨      | 분류                           | 1차        | 2차  | 3차  |
+| ------------------------------------------------ | ---------------- | --------- | ------------------------------ | ---------- | ---- | ---- |
+| [1074](https://www.acmicpc.net/problem/1074)     | Z                | 실버1     | 분할정복 재귀                  | 221213     |      |      |
+| 1978                                             | 소수찾기         | 실버5     | 소수(에스토스테네스의 체)      | 221213     |      |      |
+| [7562](https://www.acmicpc.net/problem/7562)     | 나이트의 이동    | 실버1     | BFS / 최단거리                 | 221214     |      |      |
+| [15565](https://www.acmicpc.net/problem/15565)   | 귀여운 라이언    | 실버1     | 구현 / enumerate               | 221230     |      |      |
+| [2346](https://www.acmicpc.net/problem/2346)     | 풍선 터뜨리기    | 실버3     | 구현 / enumerate / rotate      | 221230     |      |      |
+| [14425](https://www.acmicpc.net/problem/14425)   | 문자열 집합      | 실버3     | 문자열 / set                   | 221231     |      |      |
+| [2579](https://www.acmicpc.net/problem/2579)     | 계단오르기       | 실버3     | DP                             | 230101     |      |      |
+| [18870](https://www.acmicpc.net/problem/18870)   | 좌표압축         | 실버2     | Hash / dict                    | 230101     |      |      |
+| [7576](https://www.acmicpc.net/problem/7576)     | 토마토           | 골드5     | 구현 / 이차원배열 / BFS        | 230104     |      |      |
+| [14502](https://www.acmicpc.net/problem/14502)   | 연구소           | 골드4     | 구현 / 이차원배열 / BFS / 조합 | 230104     |      |      |
+| [9375](https://www.acmicpc.net/problem/9375)     | 패션왕김해빈     | 실버3     | Hash / defaultdict             | 230104     |      |      |
+| [4358](https://www.acmicpc.net/problem/4358)     | 생태학           | 실버2     | Hash / defaultdict / readline  | 230104     |      |      |
+| [17298](https://www.acmicpc.net/problem/17298)   | 오큰수           | 골드4     | 구현 / stack                   | 230106     |      |      |
+| 17299                                            |                  |           |                                |            |      |      |
+| [2002](https://www.acmicpc.net/problem/2002)     | 추월             | 실버1     | 구현 / Hash                    | 230110     |      |      |
+| [2178](https://www.acmicpc.net/problem/2178)     | 미로 탐색        | 실버1     | BFS / 최단거리                 | 230110     |      |      |
+| [15686](https://www.acmicpc.net/problem/15686)   | 치킨배달         | 골드5     | 구현 / 이차원배열 / 조합       | 230110     |      |      |
+| [1932](https://www.acmicpc.net/problem/1932)     | 정수삼각형       | 실버1     | DP                             | 230110     |      |      |
+| ~~[2839](https://www.acmicpc.net/problem/2839)~~ | ~~설탕배달~~     | ~~실버4~~ | ~~구현~~                       | ~~230110~~ |      |      |
+| PRGM                                             | 완주하지못한선수 | LV1       | 구현 / Hash / Counter          | 230111     |      |      |
+|                                                  |                  |           |                                |            |      |      |
+|                                                  |                  |           |                                |            |      |      |
+|                                                  |                  |           |                                |            |      |      |
+|                                                  |                  |           |                                |            |      |      |
+|                                                  |                  |           |                                |            |      |      |
+|                                                  |                  |           |                                |            |      |      |
+|                                                  |                  |           |                                |            |      |      |
+|                                                  |                  |           |                                |            |      |      |
+|                                                  |                  |           |                                |            |      |      |
+|                                                  |                  |           |                                |            |      |      |
 
