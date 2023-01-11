@@ -78,8 +78,8 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | 완주하지못한선수 | LV1       | 구현 / Hash / Counter          | 230111     |      |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | 포켓몬           | LV1       | 구현 / set                     | 230111     |      |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42862#) | 체육복           | LV1       | 구현 / Greedy                  | 230111     |      |      |
-|                                                              |                  |           |                                |            |      |      |
-|                                                              |                  |           |                                |            |      |      |
+| [2668](https://www.acmicpc.net/problem/2668)                 | 숫자고르기       | 골드5     | 그래프 / DFS / 사이클          | 230111     |      |      |
+| [9372](https://www.acmicpc.net/problem/9372)                 | 상근이의 여행    | 실버4     | 트리 / BFS                     | 230111     |      |      |
 |                                                              |                  |           |                                |            |      |      |
 |                                                              |                  |           |                                |            |      |      |
 |                                                              |                  |           |                                |            |      |      |
