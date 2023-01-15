@@ -42,8 +42,8 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=python3) | 개인정보 수집 유효기간 | LV1 | datetime | 230112 |        |      |
 | [16926](https://www.acmicpc.net/problem/16926) | 배열 돌리기1 | 실버1 | 구현 / 이차원배열 |            |        |      |
 | [1913](https://www.acmicpc.net/problem/1913) | 달팽이 | 실버3 | 구현 / 이차원배열 | 230114 |        |      |
-| 1340 | 연도진행바 | 실버5 | datetime | 230115 |        |      |
-| 1717 | 집합의 표현 | 골드4 |                                                              |            |        |      |
+| [1340](https://www.acmicpc.net/problem/1340) | 연도진행바 | 실버5 | datetime | 230115 |        |      |
+| [1717](https://www.acmicpc.net/problem/1717) | 집합의 표현 | 골드4 |                                                              |            |        |      |
 |                                                              |                          |           |                                                              |            |        |      |
 |                                                              |                          |           |                                                              |            | | |
 |  |  | | | | | |
@@ -78,10 +78,10 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | 완주하지못한선수 | LV1       | 구현 / Hash / Counter          | 230111     |      |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | 포켓몬           | LV1       | 구현 / set                     | 230111     |      |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42862#) | 체육복           | LV1       | 구현 / Greedy                  | 230111     |      |      |
-| [2668](https://www.acmicpc.net/problem/2668)                 | 숫자고르기       | 골드5     | 그래프 / DFS / 사이클          | 230111     |      |      |
-| [9372](https://www.acmicpc.net/problem/9372)                 | 상근이의 여행    | 실버4     | 트리 / BFS                     | 230111     |      |      |
-| [16234](https://www.acmicpc.net/problem/16234)               | 인구이동         | 골드5     | 구현 / BFS / 이차원배열        | 230111     |      |      |
-|                                                              |                  |           |                                |            |      |      |
+| [2668](https://www.acmicpc.net/problem/2668)                 | 숫자고르기       | 골드5     | 그래프 / DFS / 사이클          | 230112     |      |      |
+| [9372](https://www.acmicpc.net/problem/9372)                 | 상근이의 여행    | 실버4     | 트리 / BFS                     | 230113     |      |      |
+| [16234](https://www.acmicpc.net/problem/16234)               | 인구이동         | 골드5     | 구현 / BFS / 이차원배열        | 230114     |      |      |
+| [14430](https://www.acmicpc.net/problem/14430)               | 자원캐기         | 실버2     | DP                             | 230115     |      |      |
 |                                                              |                  |           |                                |            |      |      |
 |                                                              |                  |           |                                |            |      |      |
 |                                                              |                  |           |                                |            |      |      |
