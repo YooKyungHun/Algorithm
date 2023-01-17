@@ -1,43 +1,37 @@
-# lst = [1]
-# lstt = [2]
-# t = set(lst)
-# tt = set(lstt)
-# # print(set.union(t, tt))
+import sys
+sys.setrecursionlimit(10**9)
 
-# tst = [True, True, False, False]
-# ttst = [True, False, True, False]
-#
-# for i in range(4):
-#     print(tst[i] or ttst[i])
+input = sys.stdin.readline
 
+def find(x):
+    if root[x] != x:
+        root[x] = find(root[x])
 
-N, M = map(int, input().split())
-arr = [[False] * (N+1) for _ in range(N+1)]
+    return root[x]
 
-for i in range(N+1):
-    arr[i][i] = True
+def union(x, y):
+    X = find(x)
+    Y = find(y)
 
-for i in range(M):
-    boolean, a, b = map(int, input().split())
+    if X < Y:
+        root[Y] = X
+    else:
+        root[X] = Y
 
-    for j in range(M):
-        if boolean == 0:
-            arr[a][j] = (arr[a][j] or arr[b][j])
-            arr[b][j] = (arr[a][j] or arr[b][j])
-        else:
-            pass
-    if boolean == 1:
-        if arr[a][b] is True:
-            print('YES')
-        else:
-            print('NO')
+    # ex) 5 -> 3, 7 -> 2 일때
+    # union(5, 7) 하면
+    # 3(Y) -> 2(X) 해해야함.
 
-print(arr)
+    # ex) 3 -> 1, 7 -> 6 일때
+    # union(3, 7) 하면
+    # 7(y) -> 1(X) 하면 6 은 하나의 집합에 포함이 안됨.
+    # 6(Y) -> 1(X) 해야 함.
 
-
-#
-# 3 4
-# 0 0 1
-# 0 2 3
-# 0 1 2
-# 1 0 3
+n, op_num = map(int, input().split())
+root = [i for i in range(n + 1)]
+for _ in range(op_num):
+    op, x, y = map(int, input().split())
+    if op == 0:
+        union(x, y)
+    else:
+        print('YES' if find(x) == find(y) else 'NO')

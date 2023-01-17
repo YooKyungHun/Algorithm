@@ -43,7 +43,7 @@
 | [16926](https://www.acmicpc.net/problem/16926) | 배열 돌리기1 | 실버1 | 구현 / 이차원배열 |            |        |      |
 | [1913](https://www.acmicpc.net/problem/1913) | 달팽이 | 실버3 | 구현 / 이차원배열 | 230114 |        |      |
 | [1340](https://www.acmicpc.net/problem/1340) | 연도진행바 | 실버5 | datetime | 230115 |        |      |
-| [1717](https://www.acmicpc.net/problem/1717) | 집합의 표현 | 골드4 |                                                              |            |        |      |
+| [1717](https://www.acmicpc.net/problem/1717) | 집합의 표현 | 골드4 | find-union | 230116 |        |      |
 |                                                              |                          |           |                                                              |            |        |      |
 |                                                              |                          |           |                                                              |            | | |
 |  |  | | | | | |
