@@ -87,8 +87,8 @@
 | [9020](https://www.acmicpc.net/problem/9020)                 | 골드바흐의 추측         | 실버2     | 소수(에스토스테네스의 체)      | 230118     |      |      |
 | ~~[12904](https://www.acmicpc.net/problem/12904)~~           | ~~A와 B~~               | ~~골드5~~ | ~~문자열~~                     | ~~230118~~ | *    | *    |
 | [9465](https://www.acmicpc.net/problem/9465)                 | 스티커                  | 실버1     | DP                             | 230123     |      |      |
-|                                                              |                         |           |                                |            |      |      |
-|                                                              |                         |           |                                |            |      |      |
+| [14247](https://www.acmicpc.net/problem/14247)               | 나무자르기              | 실버2     | lambda / Greedy                | 230124     |      |      |
+| [4963](https://www.acmicpc.net/problem/4963)                 | 섬의 개수               | 실버2     | BFS / DFS                      | 230124     |      |      |
 |                                                              |                         |           |                                |            |      |      |
 |                                                              |                         |           |                                |            |      |      |
 |                                                              |                         |           |                                |            |      |      |

@@ -1,12 +1,21 @@
 from collections import Counter
 from itertools import combinations
 
+import sys
 
-cnt = Counter({1: 4, 8: 2})
+input = sys.stdin.readline
 
-for i in cnt:
-    print(i)
-    print(cnt[i])
 
-print('a' + 'b')
-print('aab'[0:len('aab')-1])
+def sol():
+    n = int(input())
+    ans = sum(map(int, input().split()))
+    UP = list(map(int, input().split()))
+    print(ans)
+
+    UP.sort()
+    for i in range(1, n):
+        ans += UP[i] * i
+    print(ans)
+
+
+sol()
