@@ -52,7 +52,7 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | 신규 아이디 추천 | LV1 | 문자열 | 230126 | | |
 | [1303](https://www.acmicpc.net/problem/1303) | 전쟁 - 전투 | 실버1 | DFS | 230128 | | |
 | [24479](https://www.acmicpc.net/problem/24479) | 알고리즘 수업 - DFS1 | 실버2 | DFS | 230128 | | |
-| | | | | | | |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/131128#) | 숫자 짝꿍 | LV1 | Counter | 230128 | | |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |
