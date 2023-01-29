@@ -53,8 +53,8 @@
 | [1303](https://www.acmicpc.net/problem/1303) | 전쟁 - 전투 | 실버1 | DFS | 230128 | | |
 | [24479](https://www.acmicpc.net/problem/24479) | 알고리즘 수업 - DFS1 | 실버2 | DFS | 230128 | | |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/131128#) | 숫자 짝꿍 | LV1 | Counter | 230128 | | |
-| | | | | | | |
-| | | | | | | |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/43165#) | 타겟 넘버_s1 | LV2 | 조합 | 230129 | | |
+| | 타겟 넘버_s2 | | BFS | 230129 | | |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |
