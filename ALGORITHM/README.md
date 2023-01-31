@@ -24,7 +24,6 @@
 | 2156     | 포도주 시식     | 실버1 | DP                        | 221218 |        |      |
 | 12865    | 평범한 배낭     | 골드5 | DP                        |        |        |      |
 | 1244                                                         | 스위치 켜고 끄기         | 실버4 | 구현 | 221223     |        |      |
-|          |                 |           |                           |            |        |      |
 | 2225                                                         | 합분해                   | 골드5     | DP                        | 221227     |        |      |
 | 1235                                                         | 학생번호                 | 실버4     | 구현 / set                | 221227     |        |      |
 | 20152                                                        | Game Addiction           | 실버2     | DP                        | 221227     |        |      |
@@ -47,7 +46,6 @@
 | [1717](https://www.acmicpc.net/problem/1717) | 집합의 표현 | 골드4 | find-union | 230116 |        |      |
 | 2981 | 검문 | 골드4 | 호제법 |            |        |      |
 | ~~[3036](https://www.acmicpc.net/problem/3036)~~ | ~~링~~ | ~~실버4~~ | ~~구현~~ | ~~230119~~ | * | * |
-|  |  | | | | | |
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/147355)~~ | ~~크기가 작은 부분 문자열~~ | ~~LV1~~ | ~~문자열~~ | ~~230126~~ | * | * |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | 신규 아이디 추천 | LV1 | 문자열 | 230126 | | |
 | [1303](https://www.acmicpc.net/problem/1303) | 전쟁 - 전투 | 실버1 | DFS | 230128 | | |
@@ -55,7 +53,7 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/131128#) | 숫자 짝꿍 | LV1 | Counter | 230128 | | |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/43165#) | 타겟 넘버_s1 | LV2 | 조합 | 230129 | | |
 | | 타겟 넘버_s2 | | BFS | 230129 | | |
-| [16194](https://www.acmicpc.net/problem/16194) | 카드 구매하기2 | 실버1 | DP | 230130 | | |
+|                                                              |                             |           |                           |            | | |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |
@@ -92,15 +90,15 @@
 | [16234](https://www.acmicpc.net/problem/16234)               | 인구이동              | 골드5     | 구현 / BFS / 이차원           | 230114     |        |      |
 | [14430](https://www.acmicpc.net/problem/14430)               | 자원캐기              | 실버2     | DP                            | 230115     |        |      |
 | [17352](https://www.acmicpc.net/problem/17352)               | 여러분의 다리가...    | 골드5     | union-find                    | 230117     |        |      |
-| 15789                                                        | CTP왕국이 한솔왕국... | 골드4     |                               |            |        |      |
+| [15789](https://www.acmicpc.net/problem/15789)               | CTP왕국이 한솔왕국... | 골드4     |                               |            |        |      |
 | [9020](https://www.acmicpc.net/problem/9020)                 | 골드바흐의 추측       | 실버2     | 소수(에스토스테네스의 체)     | 230118     |        |      |
 | ~~[12904](https://www.acmicpc.net/problem/12904)~~           | ~~A와 B~~             | ~~골드5~~ | ~~문자열~~                    | ~~230118~~ | *      | *    |
 | [9465](https://www.acmicpc.net/problem/9465)                 | 스티커                | 실버1     | DP                            | 230123     |        |      |
 | [14247](https://www.acmicpc.net/problem/14247)               | 나무자르기            | 실버2     | lambda / Greedy               | 230124     |        |      |
 | [4963](https://www.acmicpc.net/problem/4963)                 | 섬의 개수             | 실버2     | BFS / DFS                     | 230124     |        |      |
-|                                                              |                       |           |                               |            |        |      |
-|                                                              |                       |           |                               |            |        |      |
-|                                                              |                       |           |                               |            |        |      |
+| [16194](https://www.acmicpc.net/problem/16194)               | 카드 구매하기2        | 실버1     | DP                            | 230130     |        |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | 마법의 엘리베이터     | LV2       | 구현                          | 230131     |        |      |
+| [12931](https://www.acmicpc.net/problem/12931)               | 두 배 더하기          | 골드5     | 재귀 / Greedy                 | 230131     |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
