@@ -55,7 +55,7 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/131128#) | 숫자 짝꿍 | LV1 | Counter | 230128 | | |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/43165#) | 타겟 넘버_s1 | LV2 | 조합 | 230129 | | |
 | | 타겟 넘버_s2 | | BFS | 230129 | | |
-| | | | | | | |
+| [16194](https://www.acmicpc.net/problem/16194) | 카드 구매하기2 | 실버1 | DP | 230130 | | |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |
