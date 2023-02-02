@@ -12,7 +12,7 @@
 | [1158](https://www.acmicpc.net/problem/1158) | 요세푸스문제    | 실버4 | 구현 / deque / rotate    | 221204 | 221231 |      |
 | [2447](https://www.acmicpc.net/problem/2447) | 별찍기          | 골드5 | 분할정복 재귀             | 221203 | 230104 |      |
 | 11052    | 카드구매하기    | 실버1 | DP                        | 221211 |        |      |
-| 11726    | 2*n 타일링      | 실버3 | 메모이제이션 / DP         | 221211 |        |      |
+| [11726](https://www.acmicpc.net/problem/11726) | 2*n 타일링      | 실버3 | 메모이제이션 / DP         | 221211 |        |      |
 | [1004](https://www.acmicpc.net/problem/1004) | 어린왕자        | 실버3 | 구현                      | 221211 |        |      |
 | 6588     | 골드바흐의 추측 | 실버1 | 소수(에스토스테네스의 체) | 221211 | 221229 |      |
 | 1992     | 쿼드트리        | 실버1 | 분할정복 재귀             | 221127 | 221213 |      |
@@ -53,8 +53,8 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/131128#) | 숫자 짝꿍 | LV1 | Counter | 230128 | | |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/43165#) | 타겟 넘버_s1 | LV2 | 조합 | 230129 | | |
 | | 타겟 넘버_s2 | | BFS | 230129 | | |
-|                                                              |                             |           |                           |            | | |
-| | | | | | | |
+| [11399](https://www.acmicpc.net/problem/11399) | ATM | 실버4 | Greedy, lambda | 230201 | | |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12914#) | 멀리뛰기 | LV2 | DP | 230201 | | |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |
