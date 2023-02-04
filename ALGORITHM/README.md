@@ -55,10 +55,10 @@
 |                                                              | 타겟 넘버_s2                |           | BFS                       | 230129     |            |      |
 | [11399](https://www.acmicpc.net/problem/11399)               | ATM                         | 실버4     | Greedy, lambda            | 230201     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12914#) | 멀리뛰기                    | LV2       | DP                        | 230201     |            |      |
+| [20291](https://www.acmicpc.net/problem/20291)               | 파일정리                    | 실버3     | 문자열                    | 230201     |            |      |
 | [16206](https://www.acmicpc.net/problem/16206)               | 롤케이크                    | 실버1     | Greedy                    | 230203     |            |      |
-|                                                              |                             |           |                           |            |            |      |
-|                                                              |                             |           |                           |            |            |      |
-|                                                              |                             |           |                           |            |            |      |
+| [1697](https://www.acmicpc.net/problem/1697)                 | 숨바꼭질                    | 실버1     | 1차원 BFS                 | 230204     |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/154538#) | 숫자 변환하기               | LV2       | 1차원 BFS                 | 230204     |            |      |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
