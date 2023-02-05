@@ -9,6 +9,7 @@ visited = [0] * 100001
 # 5 17
 # 5 - 4 - 8 - 16 - 17
 
+# 수빈 100 동생 50
 def BFS(N, K):
     if N >= K:
         return N - K
@@ -28,7 +29,7 @@ def BFS(N, K):
         # nx = x + 1, x - 1, 2 * x
         for nx in (x + 1, x - 1, 2 * x):
             if 0 <= nx <= 100000 and visited[nx] == 0:
-                queue.append(nx)
                 visited[nx] = visited[x] + 1
+                queue.append(nx)
 
 print(BFS(N, K))
