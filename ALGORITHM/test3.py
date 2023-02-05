@@ -1,0 +1,2 @@
+tmp = []
+print(max(tmp))
