@@ -106,7 +106,7 @@
 | [16194](https://www.acmicpc.net/problem/16194)               | 카드 구매하기2        | 실버1     | DP                            | 230130     |        |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | 마법의 엘리베이터     | LV2       | 구현                          | 230131     |        |      |
 | [12931](https://www.acmicpc.net/problem/12931)               | 두 배 더하기          | 골드5     | 재귀 / Greedy                 | 230131     |        |      |
-|                                                              |                       |           |                               |            |        |      |
+| [3187](https://www.acmicpc.net/problem/3187)                 | 양치기 꿈             | 실버1     | DFS                           | 230206     |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
