@@ -1,3 +1,6 @@
+import sys
+input = sys.stdin.readline
+
 check = [True for _ in range(1000000 + 1)]
 # i=sqrt(n)까지 검사
 # 1000 이후의 수(2000, 3000, 4000, 5000, ...) 는
