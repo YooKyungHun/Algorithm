@@ -53,7 +53,7 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/131128#) | 숫자 짝꿍                   | LV1       | Counter                   | 230128     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/43165#) | 타겟 넘버_s1                | LV2       | 조합                      | 230129     |            |      |
 |                                                              | 타겟 넘버_s2                |           | BFS                       | 230129     |            |      |
-| [11399](https://www.acmicpc.net/problem/11399)               | ATM                         | 실버4     | Greedy, lambda            | 230201     |            |      |
+| [11399](https://www.acmicpc.net/problem/11399)               | ATM                         | 실버4     | Greedy / lambda           | 230201     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12914#) | 멀리뛰기                    | LV2       | DP                        | 230201     |            |      |
 | [20291](https://www.acmicpc.net/problem/20291)               | 파일정리                    | 실버3     | 문자열                    | 230201     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | 디펜스게임_s1               | LV2       | max_heap                  | 230201     |            |      |
@@ -61,6 +61,19 @@
 | [16206](https://www.acmicpc.net/problem/16206)               | 롤케이크                    | 실버1     | Greedy                    | 230203     |            |      |
 | [1697](https://www.acmicpc.net/problem/1697)                 | 숨바꼭질                    | 실버1     | 1차원 BFS                 | 230204     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/154538#) | 숫자 변환하기               | LV2       | 1차원 BFS                 | 230204     |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | 큰 수 만들기_s1             | LV2       | Greedy / 문자열 / 구현    | 230210     |            |      |
+|                                                              | 큰 수 만들기_s2             |           | 구현 / stack              |            |            |      |
+| [2606](https://www.acmicpc.net/problem/2606)                 | 바이러스                    | 실버3     | BFS                       | 230208     |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | 뉴스 클러스터링             | LV2       | dict / Counter            | 230208     |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
@@ -107,7 +120,7 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | 마법의 엘리베이터     | LV2       | 구현                          | 230131     |        |      |
 | [12931](https://www.acmicpc.net/problem/12931)               | 두 배 더하기          | 골드5     | 재귀 / Greedy                 | 230131     |        |      |
 | [3187](https://www.acmicpc.net/problem/3187)                 | 양치기 꿈             | 실버1     | DFS                           | 230206     |        |      |
-|                                                              |                       |           |                               |            |        |      |
+| [5904](https://www.acmicpc.net/problem/5904)                 | Moo게임               | 골드5     | 분할정복 재귀                 |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |

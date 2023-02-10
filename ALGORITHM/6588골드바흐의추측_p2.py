@@ -1,3 +1,6 @@
+import sys
+input = sys.stdin.readline
+
 check = [True for _ in range(1000000 + 1)]
 
 for i in range(2, 1001):
