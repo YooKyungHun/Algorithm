@@ -15,7 +15,7 @@ def solution(n, k, enemy):
 
         # 내 병사 < 적군 일때 무조건 K 사용
         elif n < enemy[idx]:
-            # 전에 병사 사용한게 아까워 -> 그거 무조권썻다고 하고 이번엔 병사 사용할래
+            # 전에 병사 사용한게 아까워 -> 그거 무조권썼다고 하고 이번엔 병사 사용할래
             if len(tmp) != 0 and max(tmp) > enemy[idx] and k >= 1:
                 n += max(tmp)
                 tmp.remove(max(tmp))
