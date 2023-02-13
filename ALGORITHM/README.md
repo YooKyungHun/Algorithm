@@ -65,9 +65,9 @@
 |                                                              | 큰 수 만들기_s2             |           | 구현 / stack              |            |            |      |
 | [2606](https://www.acmicpc.net/problem/2606)                 | 바이러스                    | 실버3     | BFS                       | 230208     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | 뉴스 클러스터링             | LV2       | dict / Counter            | 230208     |            |      |
-| PRGM                                                         | 땅따먹기                    | LV2       |                           | 230210     |            |      |
-|                                                              |                             |           |                           |            |            |      |
-|                                                              |                             |           |                           |            |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | 땅따먹기                    | LV2       | DP                        | 230210     |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | 모음사전_s1                 | LV2       | 구현                      | 230213     |            |      |
+|                                                              | 모음사전_s2                 |           | 재귀 / 완전탐색           | 230213     |            |      |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
