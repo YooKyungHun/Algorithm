@@ -69,7 +69,7 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | 모음사전_s1                 | LV2       | 구현                      | 230213     |            |      |
 |                                                              | 모음사전_s2                 |           | 재귀 / 완전탐색           | 230213     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | 파괴되지 않은 건물          | LV3       | 누적합                    | 230217     |            |      |
-|                                                              |                             |           |                           |            |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | 괄호 회전하기               | LV2       | 스택                      | 230218     |            |      |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
