@@ -121,7 +121,7 @@
 | [12931](https://www.acmicpc.net/problem/12931)               | 두 배 더하기          | 골드5     | 재귀 / Greedy                 | 230131     |        |      |
 | [3187](https://www.acmicpc.net/problem/3187)                 | 양치기 꿈             | 실버1     | DFS                           | 230206     |        |      |
 | [5904](https://www.acmicpc.net/problem/5904)                 | Moo게임               | 골드5     | 분할정복 재귀                 |            |        |      |
-|                                                              |                       |           |                               |            |        |      |
+| [5549](https://www.acmicpc.net/problem/5549)                 | 행성탐사              | 골드5     | 누적합                        | 230221     |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
