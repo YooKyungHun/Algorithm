@@ -122,7 +122,7 @@
 | [3187](https://www.acmicpc.net/problem/3187)                 | 양치기 꿈             | 실버1     | DFS                           | 230206     |        |      |
 | [5904](https://www.acmicpc.net/problem/5904)                 | Moo게임               | 골드5     | 분할정복 재귀                 |            |        |      |
 | [5549](https://www.acmicpc.net/problem/5549)                 | 행성탐사              | 골드5     | 누적합                        | 230221     |        |      |
-|                                                              |                       |           |                               |            |        |      |
+| ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/159994)~~ | ~~카드뭉치~~          | ~~LV1~~   | ~~구현~~                      | ~~230222~~ | *      | *    |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
