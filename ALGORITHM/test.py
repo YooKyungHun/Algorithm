@@ -1,31 +1,47 @@
-def solution(land):
+from collections import deque
+
+
+# def BFS(rectangle, characterX, characterY, itemX, itemY, visited):
+#     queue = deque()
+#     queue.append([characterX, characterY])
+#     visited[characterX][characterY] = 1
+
+#     dx = [-1, 0, 1, 0]
+#     dy = [0, -1, 0, 1]
+
+#     while queue:
+#         x, y = queue.popleft()
+
+#         if x == itemX and y == itemY:
+#             return visited[itemX][itemY] -1
+
+#         for k in range(4):
+#             nx, ny = x + dx[k], y + dy[k]
+
+#             # 사각형 안에 있으면 안되기 때문에 isInRectangle 이 False 가 나와야 함
+#             # 모든 사각형 밖에 있다면 안되기 때문에 isOutRectangle 이 False 가 나와야 함
+#             if not isInRectangle(rectangle, nx, ny) and not isOutRectangle(rectangle, nx, ny) and visited[nx][ny] == 0:
+#                 visited[nx][ny] = visited[x][y] + 1
+#                 queue.append([nx, ny])
+
+def solution(rectangle, characterX, characterY, itemX, itemY):
+    N = max(map(max, rectangle))
+    edge = [[0] * (N + 1) for _ in range(N + 1)]
+
+    for leftX, leftY, rightX, rightY in rectangle:
+        for i in range(leftX, rightX + 1):
+            for j in range(leftY, rightY + 1):
+                edge[i][j] == 1
+    print(edge)
+    #         for m in range(leftX + 1, rightX):
+    #             for n in range(leftY + 1, rightY):
+    #                 edge[m][n] == 0
+
+    # print(edge)
+
+    # answer = BFS(rectangle, characterX, characterY, itemX, itemY, visited)
+
     answer = 0
-    N = len(land)
-    # dp[n][idx] : n 행에서 각 idx 를 선택했을 때 최대값
-    # dp[1][0] = land[1][0] + max(          dp[0][1], dp[0][2], dp[0][3])
-    # dp[1][1] = land[1][1] + max(dp[0][0],           dp[0][2], dp[0][3])
-    # dp[1][2] = land[1][2] + max(dp[0][0], dp[0][1],           dp[0][3])
-    # dp[1][3] = land[1][3] + max(dp[0][0], dp[0][1], dp[0][2])
+    return answer
 
-    # print(dp) 
-    # [[1, 2, 3, 5], 
-    # [10, 11, 12, 11], 
-    # [16, 15, 13, 13]]
-
-    dp = [[0, 0, 0, 0] for _ in range(N)]
-    dk = [[1, 2, 3], [0, 2, 3], [0, 1, 3], [0, 1, 2]]
-
-    dp[0] = land[0]
-    prev = land[0].index(max(dp[0])  # 3
-    #     for i in range(1, N):
-    #         for j in range(4):
-    #             if j in dk[prev]: # j: 3회
-    #                 dp[i][j] = land[i][j] + max(dp[i-1])
-
-    #             else: # j: 1회
-    #                 for k in dk[prev]: # 0 1 2
-    #                     dp[i][j] = max(dp[i][j], land[i][j] + dp[i-1][k])
-
-    #         prev = land[i].index(max(land[i]))
-
-    return (max(map(max, dp)))
+solution([[1, 1, 7, 4], [3, 2, 5, 5], [4, 3, 6, 9], [2, 6, 8, 8]], 1, 3, 7, 8)
