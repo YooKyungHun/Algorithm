@@ -73,7 +73,7 @@
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/159994)~~ | ~~카드뭉치~~                | ~~LV1~~   | ~~구현~~                  | ~~230222~~ | *          | *    |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | 아이템 줍기_s1              | LV3       | BFS                       | 230224     | ★          |      |
 |                                                              | 아이템 줍기_s1              |           | BFS                       | 230224     | ★          |      |
-|                                                              |                             |           |                           |            |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | 메뉴 리뉴얼                 | LV2       | Hash / Counter / 조합     | 230225     |            |      |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
