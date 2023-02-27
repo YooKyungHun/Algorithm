@@ -5,7 +5,7 @@
 | 1577                                                         | 도로의 개수_s1              | 골드5     | DFS                       | 221117     |            |      |
 |                                                              | 도로의 개수_s2              |           | DP                        | 221230     |            |      |
 | 15650                                                        | N과 M(2)                    | 실버3     | 조합                      | 221117     | 230110     |      |
-| ~~[1260](https://www.acmicpc.net/problem/1260)~~             | ~~DFS와 BFS~~               | ~~실버2~~ | ~~DFS / BFS~~             | ~~221118~~ | ~~230126~~ | *    |
+| [1260](https://www.acmicpc.net/problem/1260)                 | DFS와 BFS                   | 실버2     | 1차원 DFS / BFS           | ~~221118~~ | ~~230126~~ | ★    |
 | 13565                                                        | 침투                        | 실버2     | BFS                       | 230111     |            |      |
 | 1057                                                         | 토너먼트                    | 실버3     | 구현                      | 221204     |            |      |
 | 10026                                                        | 적록색약                    | 골드5     | DFS / BFS                 | 221204     |            |      |
@@ -27,7 +27,7 @@
 | 2225                                                         | 합분해                      | 골드5     | DP                        | 221227     |            |      |
 | 1235                                                         | 학생번호                    | 실버4     | 구현 / set                | 221227     |            |      |
 | 20152                                                        | Game Addiction              | 실버2     | DP                        | 221227     |            |      |
-| ~~1120~~                                                     | ~~문자열~~                  | ~~실버4~~ | ~~구현~~                  | ~~221229~~ | *          | *    |
+| ~~1120~~                                                     | ~~문자열~~                  | ~~실버4~~ | ~~구현~~                  | ~~221229~~ | X          | X    |
 |                                                              | 프린터큐                    |           |                           | 221229     |            |      |
 | [3190](https://www.acmicpc.net/problem/3190)                 | 뱀                          | 골드4     | 구현 / 이차원             | 221231     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | 귤 고르기                   | LV2       | Hash / dict / Counter     | 230102     |            |      |
@@ -35,7 +35,7 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | 연속 부분 수열 합의 개수    | LV2       | 연속 부분 수열            | 230102     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/87946#) | 피로도                      | LV2       | 구현 / 순열               | 230105     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | 문자열 나누기               | LV1       | 구현 / 문자열             | 230105     |            |      |
-| ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42584)~~ | ~~주식가격~~                | ~~LV2~~   | ~~구현~~                  | ~~230105~~ | *          | *    |
+| ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42584)~~ | ~~주식가격~~                | ~~LV2~~   | ~~구현~~                  | ~~230105~~ | X          | X    |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | 할인행사                    | LV2       | 구현 / Hash / Counter     | 230108     |            |      |
 | [9663](https://www.acmicpc.net/problem/9663)                 | N-Queen                     | 골드4     | 백트래킹                  |            |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/150367) | 표현 가능한 이진트리        | LV3       | 트리                      |            |            |      |
@@ -45,8 +45,8 @@
 | [1340](https://www.acmicpc.net/problem/1340)                 | 연도진행바                  | 실버5     | datetime                  | 230115     |            |      |
 | [1717](https://www.acmicpc.net/problem/1717)                 | 집합의 표현                 | 골드4     | find-union                | 230116     |            |      |
 | 2981                                                         | 검문                        | 골드4     | 호제법                    |            |            |      |
-| ~~[3036](https://www.acmicpc.net/problem/3036)~~             | ~~링~~                      | ~~실버4~~ | ~~구현~~                  | ~~230119~~ | *          | *    |
-| ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/147355)~~ | ~~크기가 작은 부분 문자열~~ | ~~LV1~~   | ~~문자열~~                | ~~230126~~ | *          | *    |
+| ~~[3036](https://www.acmicpc.net/problem/3036)~~             | ~~링~~                      | ~~실버4~~ | ~~구현~~                  | ~~230119~~ | X          | X    |
+| ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/147355)~~ | ~~크기가 작은 부분 문자열~~ | ~~LV1~~   | ~~문자열~~                | ~~230126~~ | X          | X    |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | 신규 아이디 추천            | LV1       | 문자열                    | 230126     |            |      |
 | [1303](https://www.acmicpc.net/problem/1303)                 | 전쟁 - 전투                 | 실버1     | DFS                       | 230128     |            |      |
 | [24479](https://www.acmicpc.net/problem/24479)               | 알고리즘 수업 - DFS1        | 실버2     | DFS                       | 230128     |            |      |
@@ -57,7 +57,7 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12914#) | 멀리뛰기                    | LV2       | DP                        | 230201     |            |      |
 | [20291](https://www.acmicpc.net/problem/20291)               | 파일정리                    | 실버3     | 문자열                    | 230201     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | 디펜스게임_s1               | LV2       | max_heap                  | 230201     |            |      |
-|                                                              | ~~디펜스게임_s2~~           |           | ~~리스트(시간초과)~~      | ~~230201~~ | *          | *    |
+|                                                              | ~~디펜스게임_s2~~           |           | ~~리스트(시간초과)~~      | ~~230201~~ | X          | X    |
 | [16206](https://www.acmicpc.net/problem/16206)               | 롤케이크                    | 실버1     | Greedy                    | 230203     |            |      |
 | [1697](https://www.acmicpc.net/problem/1697)                 | 숨바꼭질                    | 실버1     | 1차원 BFS                 | 230204     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/154538#) | 숫자 변환하기               | LV2       | 1차원 BFS                 | 230204     |            |      |
@@ -70,7 +70,7 @@
 |                                                              | 모음사전_s2                 |           | 재귀 / 완전탐색           | 230213     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | 파괴되지 않은 건물          | LV3       | 누적합                    | 230217     | ★          |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | 괄호 회전하기               | LV2       | 스택                      | 230218     |            |      |
-| ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/159994)~~ | ~~카드뭉치~~                | ~~LV1~~   | ~~구현~~                  | ~~230222~~ | *          | *    |
+| ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/159994)~~ | ~~카드뭉치~~                | ~~LV1~~   | ~~구현~~                  | ~~230222~~ | X          | X    |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | 아이템 줍기_s1              | LV3       | BFS                       | 230224     | ★          |      |
 |                                                              | 아이템 줍기_s1              |           | BFS                       | 230224     | ★          |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | 메뉴 리뉴얼                 | LV2       | Hash / Counter / 조합     | 230225     |            |      |
@@ -84,9 +84,9 @@
 | 문제번호                                                     | 이름                  | 레벨      | 분류                          | 1차        | 2차    | 3차  |
 | ------------------------------------------------------------ | --------------------- | --------- | ----------------------------- | ---------- | ------ | ---- |
 | [1074](https://www.acmicpc.net/problem/1074)                 | Z                     | 실버1     | 분할정복 재귀                 | 221213     |        |      |
-| 1978                                                         | 소수찾기              | 실버5     | 소수(에스토스테네스의 체)     | 221213     |        |      |
+| 1978                                                         | 소수찾기              | 실버5     | 소수(에스토스테네스의 체)     | 221213     | ★      |      |
 | [7562](https://www.acmicpc.net/problem/7562)                 | 나이트의 이동         | 실버1     | BFS / 최단거리                | 221214     |        |      |
-| [15565](https://www.acmicpc.net/problem/15565)               | 귀여운 라이언         | 실버1     | 구현 / enumerate              | 221230     |        |      |
+| [15565](https://www.acmicpc.net/problem/15565)               | 귀여운 라이언         | 실버1     | 구현 / enumerate              | 221230     | ★      |      |
 | [2346](https://www.acmicpc.net/problem/2346)                 | 풍선 터뜨리기         | 실버3     | 구현 / enumerate / rotate     | 221230     | 230130 |      |
 | [14425](https://www.acmicpc.net/problem/14425)               | 문자열 집합           | 실버3     | 문자열 / set                  | 221231     |        |      |
 | [2579](https://www.acmicpc.net/problem/2579)                 | 계단오르기            | 실버3     | DP                            | 230101     |        |      |
@@ -95,7 +95,7 @@
 | [14502](https://www.acmicpc.net/problem/14502)               | 연구소                | 골드4     | 구현 / 이차원 / BFS / 조합    | 230104     |        |      |
 | [9375](https://www.acmicpc.net/problem/9375)                 | 패션왕김해빈          | 실버3     | Hash / defaultdict            | 230104     |        |      |
 | [4358](https://www.acmicpc.net/problem/4358)                 | 생태학                | 실버2     | Hash / defaultdict / readline | 230104     |        |      |
-| [17298](https://www.acmicpc.net/problem/17298)               | 오큰수                | 골드4     | 구현 / stack                  | 230106     |        |      |
+| [17298](https://www.acmicpc.net/problem/17298)               | 오큰수                | 골드4     | 구현 / stack                  | 230106     | ★      |      |
 | 17299                                                        | 오등큰수              | 골드3     |                               |            |        |      |
 | [2002](https://www.acmicpc.net/problem/2002)                 | 추월                  | 실버1     | 구현 / Hash                   | 230110     |        |      |
 | [2178](https://www.acmicpc.net/problem/2178)                 | 미로 탐색             | 실버1     | BFS / 최단거리                | 230110     | 230203 |      |
@@ -106,13 +106,13 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | 포켓몬                | LV1       | 구현 / set                    | 230111     |        |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42862#) | 체육복                | LV1       | 구현 / Greedy                 | 230111     |        |      |
 | [2668](https://www.acmicpc.net/problem/2668)                 | 숫자고르기            | 골드5     | 그래프 / DFS / 사이클         | 230112     |        |      |
-| [9372](https://www.acmicpc.net/problem/9372)                 | 상근이의 여행         | 실버4     | 트리 / BFS                    | 230113     |        |      |
+| [9372](https://www.acmicpc.net/problem/9372)                 | 상근이의 여행         | 실버4     | 트리 / BFS                    | 230113     | ★      |      |
 | [16234](https://www.acmicpc.net/problem/16234)               | 인구이동              | 골드5     | 구현 / BFS / 이차원           | 230114     |        |      |
 | [14430](https://www.acmicpc.net/problem/14430)               | 자원캐기              | 실버2     | DP                            | 230115     |        |      |
 | [17352](https://www.acmicpc.net/problem/17352)               | 여러분의 다리가...    | 골드5     | union-find                    | 230117     |        |      |
 | [15789](https://www.acmicpc.net/problem/15789)               | CTP왕국이 한솔왕국... | 골드4     |                               |            |        |      |
-| [9020](https://www.acmicpc.net/problem/9020)                 | 골드바흐의 추측       | 실버2     | 소수(에스토스테네스의 체)     | 230118     |        |      |
-| ~~[12904](https://www.acmicpc.net/problem/12904)~~           | ~~A와 B~~             | ~~골드5~~ | ~~문자열~~                    | ~~230118~~ | *      | *    |
+| [9020](https://www.acmicpc.net/problem/9020)                 | 골드바흐의 추측       | 실버2     | 소수(에스토스테네스의 체)     | 230118     | ★      |      |
+| ~~[12904](https://www.acmicpc.net/problem/12904)~~           | ~~A와 B~~             | ~~골드5~~ | ~~문자열~~                    | ~~230118~~ | X      | X    |
 | [9465](https://www.acmicpc.net/problem/9465)                 | 스티커                | 실버1     | DP                            | 230123     |        |      |
 | [14247](https://www.acmicpc.net/problem/14247)               | 나무자르기            | 실버2     | lambda / Greedy               | 230124     |        |      |
 | [4963](https://www.acmicpc.net/problem/4963)                 | 섬의 개수             | 실버2     | BFS / DFS                     | 230124     |        |      |
@@ -123,7 +123,7 @@
 | [5904](https://www.acmicpc.net/problem/5904)                 | Moo게임               | 골드5     | 분할정복 재귀                 |            |        |      |
 | [5549](https://www.acmicpc.net/problem/5549)                 | 행성탐사              | 골드5     | 누적합                        | 230221     | ★      |      |
 | [11660](https://www.acmicpc.net/problem/11660)               | 구간 합 구하기 5      | 실버1     | 누적합                        | 230226     |        |      |
-|                                                              |                       |           |                               |            |        |      |
+| ~~[2667](https://www.acmicpc.net/problem/2667)~~             | ~~단지번호 붙이기~~   | ~~실버1~~ | ~~BFS~~                       | ~~230227~~ | X      | X    |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
