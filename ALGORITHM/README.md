@@ -76,6 +76,15 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | 메뉴 리뉴얼                 | LV2       | Hash / Counter / 조합     | 230225     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/159993) | 미로 탈출                   | LV2       | BFS                       | 230301     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/17680#) | 캐시                        | LV2       | deque                     | 230301     |            |      |
+| [~~PRGM~~](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | ~~키패드 누르기~~           | ~~LV1~~   | ~~반복문 / 구현~~         | ~~230304~~ | X          | X    |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | 문자열 압축                 | LV2       | 문자열 / 반복문           | 230304     | ★          |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
 
