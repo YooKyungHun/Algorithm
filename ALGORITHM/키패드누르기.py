@@ -14,7 +14,7 @@ def BFS(thumb, number):
     while queue:
         x, y = queue.popleft()
         if x == number[0] and y == number[1]:
-            return visited[x][y]
+            return visited[x][y] - 1
 
         for k in range(4):
             nx, ny = x + dx[k], y + dy[k]

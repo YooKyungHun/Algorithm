@@ -133,8 +133,8 @@
 | [5549](https://www.acmicpc.net/problem/5549)                 | 행성탐사              | 골드5     | 누적합                        | 230221     | ★      |      |
 | [11660](https://www.acmicpc.net/problem/11660)               | 구간 합 구하기 5      | 실버1     | 누적합                        | 230226     |        |      |
 | ~~[2667](https://www.acmicpc.net/problem/2667)~~             | ~~단지번호 붙이기~~   | ~~실버1~~ | ~~BFS~~                       | ~~230227~~ | X      | X    |
-|                                                              |                       |           |                               |            |        |      |
-|                                                              |                       |           |                               |            |        |      |
+| ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12939)~~ | ~~최댓값과 최솟값~~   | ~~LV2~~   | ~~min / max~~                 | ~~230305~~ | X      | X    |
+| PRGM                                                         | 숫자의 표현           | LV2       | break / continue              | 230305     | ★      |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
 

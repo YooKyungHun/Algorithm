@@ -34,4 +34,5 @@ def solution(s):
 
         result.append(len(answer))
 
-    return min(result)
+    # TC 6 => s = 'a', output = 1
+    return min(result) if len(s) != 1 else 1
