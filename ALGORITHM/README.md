@@ -135,6 +135,30 @@
 | ~~[2667](https://www.acmicpc.net/problem/2667)~~             | ~~단지번호 붙이기~~   | ~~실버1~~ | ~~BFS~~                       | ~~230227~~ | X      | X    |
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12939)~~ | ~~최댓값과 최솟값~~   | ~~LV2~~   | ~~min / max~~                 | ~~230305~~ | X      | X    |
 | PRGM                                                         | 숫자의 표현           | LV2       | break / continue              | 230305     | ★      |      |
+| ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12945)~~ | ~~피보나치 수~~       | ~~LV2~~   | ~~피보나치~~                  | ~~230306~~ | X      | X    |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | 구명보트              | LV2       | deque                         | 230306     |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
+|                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
 
