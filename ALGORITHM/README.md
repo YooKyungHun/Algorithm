@@ -137,8 +137,8 @@
 | PRGM                                                         | 숫자의 표현           | LV2       | break / continue              | 230305     | ★      |      |
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12945)~~ | ~~피보나치 수~~       | ~~LV2~~   | ~~피보나치~~                  | ~~230306~~ | X      | X    |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | 구명보트              | LV2       | deque                         | 230306     |        |      |
-|                                                              |                       |           |                               |            |        |      |
-|                                                              |                       |           |                               |            |        |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | 정수 삼각형           | LV3       | dp                            | 230307     | ★      |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 이중우선순위큐        | LV3       | heapq                         | 230307     | ★      |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
