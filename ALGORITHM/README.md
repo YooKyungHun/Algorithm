@@ -78,7 +78,7 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/17680#) | 캐시                        | LV2       | deque                     | 230301     |            |      |
 | [~~PRGM~~](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | ~~키패드 누르기~~           | ~~LV1~~   | ~~반복문 / 구현~~         | ~~230304~~ | X          | X    |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | 문자열 압축                 | LV2       | 문자열 / 반복문           | 230304     | ★          |      |
-|                                                              |                             |           |                           |            |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/147354) | 테이블 해시 함수            | LV2       | 비트연산                  | 230308     | ★          |      |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
