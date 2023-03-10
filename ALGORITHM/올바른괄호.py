@@ -17,6 +17,7 @@ def solution(s):
             queue.append(i)
 
         # ) 는 queue 가 비었는지와 queue 의 마지막 원소를 확인
+        # ) 는 애초에 queue 에 넣지 않음
         else:
             # TC 3
             if not queue:

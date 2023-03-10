@@ -1,6 +1,5 @@
 from heapq import heappop, heappush, heapify
 
-
 def solution(n, works):
     # Test Case 3번 과 같은 Edge Case 처리
     if sum(works) <= n:
@@ -10,13 +9,13 @@ def solution(n, works):
     heap = [-work for work in works]
     heapify(heap)
     while n:
-        # 1)
+        # 1) heapify -> O(n)
         # 가장 큰 값(- 가 붙은 것을 생각하면 가장 작은 값이기도 함)
         # heap[0] += 1
         # heapify(heap)
         # n -= 1
 
-        # 2)
+        # 2) heappop, heappush -> O(logN)
         mn = heappop(heap)
         heappush(heap, mn + 1)
         n -= 1
