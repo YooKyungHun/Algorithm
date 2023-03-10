@@ -81,7 +81,7 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/147354) | 테이블 해시 함수            | LV2       | 비트연산                  | 230308     | ★          |      |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
-|                                                              |                             |           |                           |            |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | 올바른 괄호                 | LV2       | deque                     | 230310     |            |      |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |

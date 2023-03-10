@@ -19,7 +19,7 @@ def check(string):
             # 짝이 맞는 경우: stack 의 열린 괄호 pop 하기
             stack.pop()
 
-    # 스택에 남아있다면 (ex) input = "{{{{{"
+    # 스택에 남아있다면 (ex) input = "{{{{{")
     if stack:
         return False
     # for 문도 다 돌았고, stack 도 남아있지 않다면
