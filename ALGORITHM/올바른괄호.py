@@ -2,8 +2,6 @@ from collections import deque, Counter
 
 
 def solution(s):
-    answer = True
-
     # TC4 처럼 '(' 와 ')' 의 갯수가 서로 다른 경우
     cnt = Counter(s)
     if cnt['('] != cnt[')']:
@@ -29,5 +27,4 @@ def solution(s):
 
     if queue:
         return False
-
     return True

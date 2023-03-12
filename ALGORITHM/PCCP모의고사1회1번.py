@@ -8,6 +8,7 @@ def solution(input_string):
 
     cnt = Counter(input_string)
     # Counter({'a': 3, 'e': 2, 'd': 2, 'b': 2, 'c': 2})
+    # ({'e': 4, 'd': 2})
 
     for key in cnt.keys():
         if cnt[key] >= 2:
