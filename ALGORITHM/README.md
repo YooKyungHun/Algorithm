@@ -139,7 +139,7 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | 구명보트              | LV2       | deque                         | 230306     |        |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | 정수 삼각형           | LV3       | dp                            | 230307     | ★      |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 이중우선순위큐        | LV3       | heapq                         | 230307     | ★      |      |
-|                                                              |                       |           |                               |            |        |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/43163#) | 단어 변환             | LV3       | 문자열 DFS                    | 230313     | ★      |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
