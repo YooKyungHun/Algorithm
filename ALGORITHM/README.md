@@ -118,7 +118,7 @@
 | [9372](https://www.acmicpc.net/problem/9372)                 | 상근이의 여행         | 실버4     | 트리 / BFS                    | 230113     | ★      |      |
 | [16234](https://www.acmicpc.net/problem/16234)               | 인구이동              | 골드5     | 구현 / BFS / 이차원           | 230114     |        |      |
 | [14430](https://www.acmicpc.net/problem/14430)               | 자원캐기              | 실버2     | DP                            | 230115     |        |      |
-| [17352](https://www.acmicpc.net/problem/17352)               | 여러분의 다리가...    | 골드5     | union-find                    | 230117     |        |      |
+| [17352](https://www.acmicpc.net/problem/17352)               | 여러분의 다리가...    | 골드5     | union-find                    | 230117     | 230314 |      |
 | [15789](https://www.acmicpc.net/problem/15789)               | CTP왕국이 한솔왕국... | 골드4     |                               |            |        |      |
 | [9020](https://www.acmicpc.net/problem/9020)                 | 골드바흐의 추측       | 실버2     | 소수(에스토스테네스의 체)     | 230118     | ★      |      |
 | ~~[12904](https://www.acmicpc.net/problem/12904)~~           | ~~A와 B~~             | ~~골드5~~ | ~~문자열~~                    | ~~230118~~ | X      | X    |
@@ -131,7 +131,7 @@
 | [3187](https://www.acmicpc.net/problem/3187)                 | 양치기 꿈             | 실버1     | DFS                           | 230206     |        |      |
 | [5904](https://www.acmicpc.net/problem/5904)                 | Moo게임               | 골드5     | 분할정복 재귀                 |            |        |      |
 | [5549](https://www.acmicpc.net/problem/5549)                 | 행성탐사              | 골드5     | 누적합                        | 230221     | ★      |      |
-| [11660](https://www.acmicpc.net/problem/11660)               | 구간 합 구하기 5      | 실버1     | 누적합                        | 230226     |        |      |
+| [11660](https://www.acmicpc.net/problem/11660)               | 구간 합 구하기 5      | 실버1     | 누적합                        | 230226     | 230314 |      |
 | ~~[2667](https://www.acmicpc.net/problem/2667)~~             | ~~단지번호 붙이기~~   | ~~실버1~~ | ~~BFS~~                       | ~~230227~~ | X      | X    |
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12939)~~ | ~~최댓값과 최솟값~~   | ~~LV2~~   | ~~min / max~~                 | ~~230305~~ | X      | X    |
 | PRGM                                                         | 숫자의 표현           | LV2       | break / continue              | 230305     | ★      |      |
