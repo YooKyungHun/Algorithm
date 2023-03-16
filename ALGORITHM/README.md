@@ -82,9 +82,9 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | 야근지수                    | LV3       | heap                      | 230308     | ★          |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | 올바른 괄호                 | LV2       | deque                     | 230310     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | 위장                        | LV2       | Hash                      | 230310     | ★          |      |
-| PRGM                                                         | PCCP모의고사1회1번          |           | rindex, rfind             | 230311     | ★          |      |
-|                                                              |                             |           |                           |            |            |      |
-|                                                              |                             |           |                           |            |            |      |
+| PRGM                                                         | PCCP모의고사1회1번          | -         | rindex, rfind             | 230311     | ★          |      |
+| ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12981)~~ | ~~영어끝말잇기~~            | ~~LV1~~   | ~~문자열 / 구현~~         | ~~230315~~ | X          | X    |
+| ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12941)~~ | ~~최솟값 만들기~~           | ~~LV2~~   | ~~zip~~                   | ~~230315~~ | X          | X    |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
 
