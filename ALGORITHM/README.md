@@ -85,8 +85,16 @@
 | PRGM                                                         | PCCP모의고사1회1번          | -         | rindex, rfind             | 230311     | ★          |      |
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12981)~~ | ~~영어끝말잇기~~            | ~~LV1~~   | ~~문자열 / 구현~~         | ~~230315~~ | X          | X    |
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12941)~~ | ~~최솟값 만들기~~           | ~~LV2~~   | ~~zip~~                   | ~~230315~~ | X          | X    |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12911#) | 다음 큰 숫자                | LV2       | bin                       | 230317     |            |      |
+| PRGM                                                         | 프린터                      | LV2       | deque, heap               | 230317     |            |      |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+
+
 
 
 
