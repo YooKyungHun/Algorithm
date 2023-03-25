@@ -87,9 +87,9 @@
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12941)~~ | ~~최솟값 만들기~~           | ~~LV2~~   | ~~zip~~                   | ~~230315~~ | X          | X    |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12911#) | 다음 큰 숫자                | LV2       | bin                       | 230317     |            |      |
 | PRGM                                                         | 프린터                      | LV2       | deque, heap               | 230317     |            |      |
-|                                                              |                             |           |                           |            |            |      |
-|                                                              |                             |           |                           |            |            |      |
-|                                                              |                             |           |                           |            |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12905) | 가장 큰 정사각형 찾기       | LV2       | dp                        | 230325     | ★          |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | n^2 배열 자르기             | LV2       | 배열                      | 230325     | ★          |      |
+| ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/68644)~~ | ~~두개 뽑아서 더하기~~      | ~~LV1~~   | ~~조합~~                  | ~~230322~~ | X          | X    |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
