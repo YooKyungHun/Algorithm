@@ -90,9 +90,9 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12905) | 가장 큰 정사각형 찾기       | LV2       | dp                        | 230325     | ★          |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | n^2 배열 자르기             | LV2       | 배열                      | 230325     | ★          |      |
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/68644)~~ | ~~두개 뽑아서 더하기~~      | ~~LV1~~   | ~~조합~~                  | ~~230322~~ | X          | X    |
-|                                                              |                             |           |                           |            |            |      |
-|                                                              |                             |           |                           |            |            |      |
-|                                                              |                             |           |                           |            |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | 롤케이크 자르기             | LV2       | Counter, defaultdict      | 230327     |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/135807) | 숫자카드 나누기             | LV2       | 최대공약수, gcd           | 230327     | ★          |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | k진수에서 소수 개수 구하기  | LV2       | 소수                      | 230328     |            |      |
 
 
 
@@ -103,7 +103,7 @@
 | [1074](https://www.acmicpc.net/problem/1074)                 | Z                     | 실버1     | 분할정복 재귀                 | 221213     |        |      |
 | 1978                                                         | 소수찾기              | 실버5     | 소수(에스토스테네스의 체)     | 221213     | ★      |      |
 | [7562](https://www.acmicpc.net/problem/7562)                 | 나이트의 이동         | 실버1     | BFS / 최단거리                | 221214     |        |      |
-| [15565](https://www.acmicpc.net/problem/15565)               | 귀여운 라이언         | 실버1     | 구현 / enumerate              | 221230     | ★      |      |
+| [15565](https://www.acmicpc.net/problem/15565)               | 귀여운 라이언         | 실버1     | 구현 / enumerate              | 221230     | 230328 | ★    |
 | [2346](https://www.acmicpc.net/problem/2346)                 | 풍선 터뜨리기         | 실버3     | 구현 / enumerate / rotate     | 221230     | 230130 |      |
 | [14425](https://www.acmicpc.net/problem/14425)               | 문자열 집합           | 실버3     | 문자열 / set                  | 221231     |        |      |
 | [2579](https://www.acmicpc.net/problem/2579)                 | 계단오르기            | 실버3     | DP                            | 230101     |        |      |
