@@ -43,7 +43,7 @@
 | [16926](https://www.acmicpc.net/problem/16926)               | 배열 돌리기1                | 실버1     | 구현 / 이차원             |            |            |      |
 | [1913](https://www.acmicpc.net/problem/1913)                 | 달팽이                      | 실버3     | 구현 / 이차원             | 230114     |            |      |
 | [1340](https://www.acmicpc.net/problem/1340)                 | 연도진행바                  | 실버5     | datetime                  | 230115     |            |      |
-| [1717](https://www.acmicpc.net/problem/1717)                 | 집합의 표현                 | 골드4     | find-union                | 230116     |            |      |
+| [1717](https://www.acmicpc.net/problem/1717)                 | 집합의 표현                 | 골드4     | find-union                | 230116     | ★          |      |
 | 2981                                                         | 검문                        | 골드4     | 호제법                    |            |            |      |
 | ~~[3036](https://www.acmicpc.net/problem/3036)~~             | ~~링~~                      | ~~실버4~~ | ~~구현~~                  | ~~230119~~ | X          | X    |
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/147355)~~ | ~~크기가 작은 부분 문자열~~ | ~~LV1~~   | ~~문자열~~                | ~~230126~~ | X          | X    |
@@ -68,7 +68,7 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | 땅따먹기                    | LV2       | DP                        | 230210     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | 모음사전_s1                 | LV2       | 구현                      | 230213     |            |      |
 |                                                              | 모음사전_s2                 |           | 재귀 / 완전탐색           | 230213     |            |      |
-| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | 파괴되지 않은 건물          | LV3       | 누적합                    | 230217     | ★          |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | 파괴되지 않은 건물          | LV3       | 누적합                    | 230217     | 230327     | ★    |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | 괄호 회전하기               | LV2       | 스택                      | 230218     |            |      |
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/159994)~~ | ~~카드뭉치~~                | ~~LV1~~   | ~~구현~~                  | ~~230222~~ | X          | X    |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | 아이템 줍기_s1              | LV3       | BFS                       | 230224     | ★          |      |
@@ -126,7 +126,7 @@
 | [9372](https://www.acmicpc.net/problem/9372)                 | 상근이의 여행         | 실버4     | 트리 / BFS                    | 230113     | ★      |      |
 | [16234](https://www.acmicpc.net/problem/16234)               | 인구이동              | 골드5     | 구현 / BFS / 이차원           | 230114     |        |      |
 | [14430](https://www.acmicpc.net/problem/14430)               | 자원캐기              | 실버2     | DP                            | 230115     |        |      |
-| [17352](https://www.acmicpc.net/problem/17352)               | 여러분의 다리가...    | 골드5     | union-find                    | 230117     | 230314 |      |
+| [17352](https://www.acmicpc.net/problem/17352)               | 여러분의 다리가...    | 골드5     | union-find                    | 230117     | 230314 | ★    |
 | [15789](https://www.acmicpc.net/problem/15789)               | CTP왕국이 한솔왕국... | 골드4     |                               |            |        |      |
 | [9020](https://www.acmicpc.net/problem/9020)                 | 골드바흐의 추측       | 실버2     | 소수(에스토스테네스의 체)     | 230118     | ★      |      |
 | ~~[12904](https://www.acmicpc.net/problem/12904)~~           | ~~A와 B~~             | ~~골드5~~ | ~~문자열~~                    | ~~230118~~ | X      | X    |
