@@ -90,7 +90,7 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12905) | 가장 큰 정사각형 찾기       | LV2       | dp                        | 230325     | ★          |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | n^2 배열 자르기             | LV2       | 배열                      | 230325     | ★          |      |
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/68644)~~ | ~~두개 뽑아서 더하기~~      | ~~LV1~~   | ~~조합~~                  | ~~230322~~ | X          | X    |
-| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | 롤케이크 자르기             | LV2       | Counter, defaultdict      | 230327     |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | 롤케이크 자르기             | LV2       | Counter, defaultdict      | 230327     | ★          |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/135807) | 숫자카드 나누기             | LV2       | 최대공약수, gcd           | 230327     | ★          |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | k진수에서 소수 개수 구하기  | LV2       | 소수                      | 230328     |            |      |
 
