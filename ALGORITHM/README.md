@@ -92,7 +92,14 @@
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/68644)~~ | ~~두개 뽑아서 더하기~~      | ~~LV1~~   | ~~조합~~                  | ~~230322~~ | X          | X    |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | 롤케이크 자르기             | LV2       | Counter, defaultdict      | 230327     | ★          |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/135807) | 숫자카드 나누기             | LV2       | 최대공약수, gcd           | 230327     | ★          |      |
-| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | k진수에서 소수 개수 구하기  | LV2       | 소수                      | 230328     |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | k진수에서 소수 개수...      | LV2       | 소수                      | 230328     |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42746#) | 가장 큰 수                  | LV2       | 문자열                    | 230331     |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
 
 
 
