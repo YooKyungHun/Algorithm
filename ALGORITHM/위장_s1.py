@@ -19,6 +19,6 @@ def solution(clothes):
     # {'headgear': 2, 'eyewear': 1})
 
     answer = 1
-    for cloth in dic.keys():
-        answer *= (dic[cloth] + 1)
+    for value in dic.values():
+        answer *= (value+1)
     return answer - 1

@@ -81,7 +81,7 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/147354) | 테이블 해시 함수            | LV2       | 비트연산                  | 230308     | ★          |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | 야근지수                    | LV3       | heap                      | 230308     | ★          |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | 올바른 괄호                 | LV2       | deque                     | 230310     |            |      |
-| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | 위장                        | LV2       | Hash                      | 230310     | ★          |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | 위장                        | LV2       | Hash                      | 230310     | 230402     | ★    |
 | PRGM                                                         | PCCP모의고사1회1번          | -         | rindex, rfind             | 230311     | ★          |      |
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12981)~~ | ~~영어끝말잇기~~            | ~~LV1~~   | ~~문자열 / 구현~~         | ~~230315~~ | X          | X    |
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12941)~~ | ~~최솟값 만들기~~           | ~~LV2~~   | ~~zip~~                   | ~~230315~~ | X          | X    |
@@ -152,7 +152,7 @@
 | PRGM                                                         | 숫자의 표현           | LV2       | break / continue              | 230305     | ★      |      |
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12945)~~ | ~~피보나치 수~~       | ~~LV2~~   | ~~피보나치~~                  | ~~230306~~ | X      | X    |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | 구명보트              | LV2       | deque                         | 230306     |        |      |
-| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | 정수 삼각형           | LV3       | dp                            | 230307     | ★      |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | 정수 삼각형           | LV3       | dp                            | 230307     | 230402 | ★    |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 이중우선순위큐        | LV3       | heapq                         | 230307     | ★      |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/43163#) | 단어 변환             | LV3       | 문자열 DFS                    | 230313     | ★      |      |
 |                                                              |                       |           |                               |            |        |      |
