@@ -14,6 +14,12 @@ from math import gcd
 # while h:
 #     print(heappop(h))
 
-lst = [5, 10, 15, 20]
-print(gcd(5, 10, 15, 20))
-print(gcd(*lst))
+# lst = [5, 10, 15, 20]
+# print(gcd(5, 10, 15, 20))
+# print(gcd(*lst))
+
+tmp = set([1, 2, 3])
+tmp2 = set([3, 4, 5])
+
+tmp = tmp.union(tmp2)
+print(tmp)

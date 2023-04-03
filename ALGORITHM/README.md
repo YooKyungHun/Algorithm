@@ -130,7 +130,7 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | 포켓몬                | LV1       | 구현 / set                    | 230111     |        |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42862#) | 체육복                | LV1       | 구현 / Greedy                 | 230111     |        |      |
 | [2668](https://www.acmicpc.net/problem/2668)                 | 숫자고르기            | 골드5     | 그래프 / DFS / 사이클         | 230112     |        |      |
-| [9372](https://www.acmicpc.net/problem/9372)                 | 상근이의 여행         | 실버4     | 트리 / BFS                    | 230113     | ★      |      |
+| [9372](https://www.acmicpc.net/problem/9372)                 | 상근이의 여행         | 실버4     | 트리 / BFS                    | 230113     | 230403 | ★    |
 | [16234](https://www.acmicpc.net/problem/16234)               | 인구이동              | 골드5     | 구현 / BFS / 이차원           | 230114     |        |      |
 | [14430](https://www.acmicpc.net/problem/14430)               | 자원캐기              | 실버2     | DP                            | 230115     |        |      |
 | [17352](https://www.acmicpc.net/problem/17352)               | 여러분의 다리가...    | 골드5     | union-find                    | 230117     | 230314 | ★    |
@@ -155,8 +155,8 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | 정수 삼각형           | LV3       | dp                            | 230307     | 230402 | ★    |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 이중우선순위큐        | LV3       | heapq                         | 230307     | ★      |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/43163#) | 단어 변환             | LV3       | 문자열 DFS                    | 230313     | ★      |      |
-|                                                              |                       |           |                               |            |        |      |
-|                                                              |                       |           |                               |            |        |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | 둘만의 암호           | LV1       | 문자열, ascii_lowercase       | 230403     | ★      |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/152996) | 시소짝꿍              | LV2       | Counter                       | 230403     | ★      |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
