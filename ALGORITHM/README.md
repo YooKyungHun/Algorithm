@@ -11,7 +11,7 @@
 | 10026                                                        | 적록색약                    | 골드5     | DFS / BFS                 | 221204     |            |      |
 | [1158](https://www.acmicpc.net/problem/1158)                 | 요세푸스문제                | 실버4     | 구현 / deque / rotate     | 221204     | 221231     |      |
 | [2447](https://www.acmicpc.net/problem/2447)                 | 별찍기                      | 골드5     | 분할정복 재귀             | 221203     | 230104     |      |
-| 11052                                                        | 카드구매하기                | 실버1     | DP                        | 221211     |            |      |
+| [11052](https://www.acmicpc.net/problem/11052)               | 카드구매하기                | 실버1     | DP                        | 221211     | 230404     | ★    |
 | [11726](https://www.acmicpc.net/problem/11726)               | 2*n 타일링                  | 실버3     | 메모이제이션 / DP         | 221211     |            |      |
 | [1004](https://www.acmicpc.net/problem/1004)                 | 어린왕자                    | 실버3     | 구현                      | 221211     |            |      |
 | 6588                                                         | 골드바흐의 추측             | 실버1     | 소수(에스토스테네스의 체) | 221211     | 221229     |      |
@@ -24,7 +24,7 @@
 | 2156                                                         | 포도주 시식                 | 실버1     | DP                        | 221218     |            |      |
 | 12865                                                        | 평범한 배낭                 | 골드5     | DP                        |            |            |      |
 | 1244                                                         | 스위치 켜고 끄기            | 실버4     | 구현                      | 221223     |            |      |
-| 2225                                                         | 합분해                      | 골드5     | DP                        | 221227     |            |      |
+| [2225](https://www.acmicpc.net/problem/2225)                 | 합분해                      | 골드5     | DP                        | 221227     | 230404     | ★    |
 | 1235                                                         | 학생번호                    | 실버4     | 구현 / set                | 221227     |            |      |
 | 20152                                                        | Game Addiction              | 실버2     | DP                        | 221227     |            |      |
 | ~~1120~~                                                     | ~~문자열~~                  | ~~실버4~~ | ~~구현~~                  | ~~221229~~ | X          | X    |
@@ -115,7 +115,7 @@
 | [14425](https://www.acmicpc.net/problem/14425)               | 문자열 집합           | 실버3     | 문자열 / set                  | 221231     |        |      |
 | [2579](https://www.acmicpc.net/problem/2579)                 | 계단오르기            | 실버3     | DP                            | 230101     |        |      |
 | [18870](https://www.acmicpc.net/problem/18870)               | 좌표압축              | 실버2     | Hash / dict                   | 230101     |        |      |
-| [7576](https://www.acmicpc.net/problem/7576)                 | 토마토                | 골드5     | 구현 / 이차원 / BFS           | 230104     |        |      |
+| [7576](https://www.acmicpc.net/problem/7576)                 | 토마토                | 골드5     | 구현 / 이차원 / BFS           | 230104     | 230404 |      |
 | [14502](https://www.acmicpc.net/problem/14502)               | 연구소                | 골드4     | 구현 / 이차원 / BFS / 조합    | 230104     |        |      |
 | [9375](https://www.acmicpc.net/problem/9375)                 | 패션왕김해빈          | 실버3     | Hash / defaultdict            | 230104     |        |      |
 | [4358](https://www.acmicpc.net/problem/4358)                 | 생태학                | 실버2     | Hash / defaultdict / readline | 230104     |        |      |
@@ -157,7 +157,7 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/43163#) | 단어 변환             | LV3       | 문자열 DFS                    | 230313     | ★      |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | 둘만의 암호           | LV1       | 문자열, ascii_lowercase       | 230403     | ★      |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/152996) | 시소짝꿍              | LV2       | Counter                       | 230403     | ★      |      |
-|                                                              |                       |           |                               |            |        |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | 점프와 순간이동       | LV2       | 구현                          | 230404     |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
