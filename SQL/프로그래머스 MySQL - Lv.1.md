@@ -2,6 +2,10 @@
 
 
 
+[TOC]
+
+
+
 ## 조건에 맞는 도서 리스트 출력하기
 
 ```mysql
@@ -139,6 +143,7 @@ FROM USER_INFO
 WHERE AGE IS NULL;
 
 # WHERE AGE = NULL 불가능	
+# COUNT(*)는 NULL 값을 포함하고 COUNT(AGE)와 같이 특정 컬럼을 지정해줄 경우 NULL 값을 포함하지 않는다.
 ```
 
 
@@ -181,17 +186,17 @@ right(컬럼명 또는 문자열, 길이);
 SUBSTRING_INDEX(str,delim,count)
 
 구분자 (delimiter) delim가 count 만큼 나오기 전에 스트링 str 에서 서브 스트링을 리턴한다.
-만일 count 가 양수 (positive)라면, 마지막 구분자의 왼쪽에 있는 모든 것들이 리턴된다.
-(왼쪽부터 계산이 됨). 만일 count 가 음수일 경우에는, 마지막 구분자의 오른쪽에 있는 모든 것들이 리턴된다 (오른쪽부터 계산됨).
+만일 count 가 양수 (positive)라면, 마지막 구분자의 왼쪽에 있는 모든 것들이 리턴된다. (왼쪽부터 계산이 됨). 
+만일 count 가 음수일 경우에는, 마지막 구분자의 오른쪽에 있는 모든 것들이 리턴된다 (오른쪽부터 계산됨).
 SUBSTRING_INDEX()는 delim에 대한 검색을 할 때 문자의 크기를 구분한다.
  
 사용예 : SELECT SUBSTRING_INDEX('www.chongmoa.com', '.', 2);
 결과 : www.chongmoa
 사용예 : SELECT SUBSTRING_INDEX('www.chongmoa.com', '.', -2);
 결과 : chongmoa.com
-사용예 : SELECT SUBSTRING_INDEX('admin@chongmoa.com', '@', 1)
+사용예 : SELECT SUBSTRING_INDEX('admin@chongmoa.com', '@', 1);
 결과 : admin
-사용예 : SELECT SUBSTRING_INDEX('admin@chongmoa.com', '@', -1)
+사용예 : SELECT SUBSTRING_INDEX('admin@chongmoa.com', '@', -1);
 결과 : chongmoa.com
 ```
 
