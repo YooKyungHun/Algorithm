@@ -72,7 +72,7 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | 괄호 회전하기               | LV2       | 스택                      | 230218     |            |      |
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/159994)~~ | ~~카드뭉치~~                | ~~LV1~~   | ~~구현~~                  | ~~230222~~ | X          | X    |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | 아이템 줍기_s1              | LV3       | BFS                       | 230224     | ★          |      |
-|                                                              | 아이템 줍기_s1              |           | BFS                       | 230224     | ★          |      |
+|                                                              | 아이템 줍기_s2              |           | BFS                       | 230224     | ★          |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | 메뉴 리뉴얼                 | LV2       | Hash / Counter / 조합     | 230225     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/159993) | 미로 탈출                   | LV2       | BFS                       | 230301     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/17680#) | 캐시                        | LV2       | deque                     | 230301     |            |      |
@@ -94,11 +94,11 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/135807) | 숫자카드 나누기             | LV2       | 최대공약수, gcd           | 230327     | ★          |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | k진수에서 소수 개수...      | LV2       | 소수                      | 230328     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42746#) | 가장 큰 수                  | LV2       | 문자열                    | 230331     |            |      |
-|                                                              |                             |           |                           |            |            |      |
-|                                                              |                             |           |                           |            |            |      |
-|                                                              |                             |           |                           |            |            |      |
-|                                                              |                             |           |                           |            |            |      |
-|                                                              |                             |           |                           |            |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | 광물캐기_s1                 | LV2       | 백트레킹, 구현, Greedy    | 230407     | ★          |      |
+|                                                              | 광물캐기_s2                 |           | 비탐색DFS                 | ★          |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | 기사단원의 무기             | LV1       | 약수                      | 230406     | ★          |      |
+| ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12900)~~ | ~~2*n 타일링~~              | ~~LV2~~   | ~~메모이제이션, DP~~      | ~~230406~~ | X          | X    |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | 문자열 내 마음대로...       | LV1       | 정렬                      | 230406     |            |      |
 |                                                              |                             |           |                           |            |            |      |
 
 
