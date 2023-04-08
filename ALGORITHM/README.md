@@ -99,6 +99,11 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | 기사단원의 무기             | LV1       | 약수                      | 230406     | ★          |      |
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12900)~~ | ~~2*n 타일링~~              | ~~LV2~~   | ~~메모이제이션, DP~~      | ~~230406~~ | X          | X    |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | 문자열 내 마음대로...       | LV1       | 정렬                      | 230406     |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12902) | 3*n 타일링                  | LV2       | DP                        | 23040      | ★          |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
+|                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
 
 
