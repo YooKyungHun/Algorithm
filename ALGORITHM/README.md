@@ -101,8 +101,8 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | 문자열 내 마음대로...       | LV1       | 정렬                      | 230406     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12902) | 3*n 타일링                  | LV2       | DP                        | 230408     | ★          |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12953#) | N개의 최소공배수            | LV2       | 최소공배수, gcd           | 230409     | ★          |      |
-|                                                              |                             |           |                           |            |            |      |
-|                                                              |                             |           |                           |            |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | 거리두기 확인하기_s1        | LV2       | 2차원 배열, 구현          | 230410     | ★          |      |
+|                                                              | 거리두기 확인하기_s2        |           | BFS                       | 230410     | ★          |      |
 |                                                              |                             |           |                           |            |            |      |
 |                                                              |                             |           |                           |            |            |      |
 
