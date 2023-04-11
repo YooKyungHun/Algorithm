@@ -163,9 +163,9 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | 둘만의 암호           | LV1       | 문자열, ascii_lowercase       | 230403     | ★      |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/152996) | 시소짝꿍              | LV2       | Counter                       | 230403     | ★      |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | 점프와 순간이동       | LV2       | 구현                          | 230404     |        |      |
-|                                                              |                       |           |                               |            |        |      |
-|                                                              |                       |           |                               |            |        |      |
-|                                                              |                       |           |                               |            |        |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12923#) | 숫자 블록             | LV2       | 약수                          | 230411     | ★      |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | 무인도 여행           | LV2       | DFS                           | 230411     | ★      |      |
+| ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42898)~~ | ~~등굣길~~            | ~~LV3~~   | ~~DP~~                        | ~~230411~~ | X      | X    |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
