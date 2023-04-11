@@ -158,7 +158,8 @@
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12945)~~ | ~~피보나치 수~~       | ~~LV2~~   | ~~피보나치~~                  | ~~230306~~ | X      | X    |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | 구명보트              | LV2       | deque                         | 230306     |        |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | 정수 삼각형           | LV3       | dp                            | 230307     | 230402 | ★    |
-| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 이중우선순위큐        | LV3       | heapq                         | 230307     | ★      |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | 이중우선순위큐_s1     | LV3       | heapq, 최대힙, remove         | 230411     | ★      |      |
+|                                                              | 이중우선순위큐_s2     |           | heapq, nlargest               | 230307     |        |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/43163#) | 단어 변환             | LV3       | 문자열 DFS                    | 230313     | ★      |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | 둘만의 암호           | LV1       | 문자열, ascii_lowercase       | 230403     | ★      |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/152996) | 시소짝꿍              | LV2       | Counter                       | 230403     | ★      |      |
