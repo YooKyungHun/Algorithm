@@ -169,8 +169,8 @@
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42898)~~ | ~~등굣길~~            | ~~LV3~~   | ~~DP~~                        | ~~230411~~ | X      | X    |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | 거리두기 확인하기_s1  | LV2       | 2차원 배열, 구현              | 230410     | ★      |      |
 |                                                              | 거리두기 확인하기_s2  |           | BFS                           | 230410     | ★      |      |
-|                                                              |                       |           |                               |            |        |      |
-|                                                              |                       |           |                               |            |        |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | 베스트 앨범           | LV3       | Hash                          | 230413     |        |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | 전화번호 목록         | LV2       | Hash                          | 230413     |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
