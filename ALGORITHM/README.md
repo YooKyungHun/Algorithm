@@ -171,8 +171,8 @@
 |                                                              | 거리두기 확인하기_s2  |           | BFS                           | 230410     | ★      |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | 베스트 앨범           | LV3       | Hash                          | 230413     |        |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | 전화번호 목록         | LV2       | Hash                          | 230413     |        |      |
-|                                                              |                       |           |                               |            |        |      |
-|                                                              |                       |           |                               |            |        |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12979) | 기지국 설치           | LV3       | 구현                          | 230414     |        |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12971) | 스티커 모으기(2)      | LV3       | DP                            | 230414     | ★      |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
 |                                                              |                       |           |                               |            |        |      |
