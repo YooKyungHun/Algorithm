@@ -29,12 +29,12 @@
 | 20152                                                        | Game Addiction              | 실버2     | DP                         | 221227     |            |      |
 | ~~1120~~                                                     | ~~문자열~~                  | ~~실버4~~ | ~~구현~~                   | ~~221229~~ | X          | X    |
 |                                                              | 프린터큐                    |           |                            | 221229     |            |      |
-| [3190](https://www.acmicpc.net/problem/3190)                 | 뱀                          | 골드4     | 구현 / 이차원              | 221231     |            |      |
-| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | 귤 고르기                   | LV2       | Hash / dict / Counter      | 230102     |            |      |
+| [3190](https://www.acmicpc.net/problem/3190)                 | 뱀                          | 골드4     | 구현 / 이차원              | 221231     | 230415     | ★    |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | 귤 고르기                   | LV2       | Hash / dict / Counter      | 230102     | 230415     |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | 성격 유형 검사하기          | LV1       | Hash / dict                | 230102     |            |      |
-| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | 연속 부분 수열 합의 개수    | LV2       | 연속 부분 수열             | 230102     |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | 연속 부분 수열 합의 개수    | LV2       | 연속 부분 수열             | 230102     | 230415     |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/87946#) | 피로도                      | LV2       | 구현 / 순열                | 230105     |            |      |
-| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | 문자열 나누기               | LV1       | 구현 / 문자열              | 230105     |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | 문자열 나누기               | LV1       | 구현 / 문자열              | 230105     | 230415     |      |
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42584)~~ | ~~주식가격~~                | ~~LV2~~   | ~~구현~~                   | ~~230105~~ | X          | X    |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | 할인행사                    | LV2       | 구현 / Hash / Counter      | 230108     |            |      |
 | [9663](https://www.acmicpc.net/problem/9663)                 | N-Queen                     | 골드4     | 백트래킹                   |            |            |      |
@@ -48,8 +48,8 @@
 | ~~[3036](https://www.acmicpc.net/problem/3036)~~             | ~~링~~                      | ~~실버4~~ | ~~구현~~                   | ~~230119~~ | X          | X    |
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/147355)~~ | ~~크기가 작은 부분 문자열~~ | ~~LV1~~   | ~~문자열~~                 | ~~230126~~ | X          | X    |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | 신규 아이디 추천            | LV1       | 문자열                     | 230126     |            |      |
-| [1303](https://www.acmicpc.net/problem/1303)                 | 전쟁 - 전투                 | 실버1     | DFS                        | 230128     |            |      |
-| [24479](https://www.acmicpc.net/problem/24479)               | 알고리즘 수업 - DFS1        | 실버2     | DFS                        | 230128     |            |      |
+| ~~[1303](https://www.acmicpc.net/problem/1303)~~             | ~~전쟁 - 전투~~             | ~~실버1~~ | ~~DFS, BFS~~               | ~~230128~~ | ~~230415~~ | X    |
+| [24479](https://www.acmicpc.net/problem/24479)               | 알고리즘 수업 - DFS1        | 실버2     | DFS                        | 230128     | 230415     |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/131128#) | 숫자 짝꿍                   | LV1       | Counter                    | 230128     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/43165#) | 타겟 넘버_s1                | LV2       | 조합                       | 230129     |            |      |
 |                                                              | 타겟 넘버_s2                |           | BFS                        | 230129     |            |      |
@@ -61,8 +61,8 @@
 | [16206](https://www.acmicpc.net/problem/16206)               | 롤케이크                    | 실버1     | Greedy                     | 230203     |            |      |
 | [1697](https://www.acmicpc.net/problem/1697)                 | 숨바꼭질                    | 실버1     | 1차원 BFS                  | 230204     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/154538#) | 숫자 변환하기               | LV2       | 1차원 BFS                  | 230204     |            |      |
-| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | 큰 수 만들기_s1             | LV2       | Greedy / 문자열 / 구현     | 230210     |            |      |
-|                                                              | 큰 수 만들기_s2             |           | 구현 / stack               |            |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | 큰 수 만들기_s1             | LV2       | Greedy / 문자열 / 구현     | 230210     | 230415     |      |
+|                                                              | 큰 수 만들기_s2             |           | 구현 / stack               | ★          |            |      |
 | [2606](https://www.acmicpc.net/problem/2606)                 | 바이러스                    | 실버3     | BFS                        | 230208     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | 뉴스 클러스터링             | LV2       | dict / Counter             | 230208     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | 땅따먹기                    | LV2       | DP                         | 230210     |            |      |
@@ -121,14 +121,14 @@
 | [2579](https://www.acmicpc.net/problem/2579)                 | 계단오르기            | 실버3     | DP                            | 230101     |        |      |
 | [18870](https://www.acmicpc.net/problem/18870)               | 좌표압축              | 실버2     | Hash / dict                   | 230101     |        |      |
 | [7576](https://www.acmicpc.net/problem/7576)                 | 토마토                | 골드5     | 구현 / 이차원 / BFS           | 230104     | 230404 |      |
-| [14502](https://www.acmicpc.net/problem/14502)               | 연구소                | 골드4     | 구현 / 이차원 / BFS / 조합    | 230104     |        |      |
+| [14502](https://www.acmicpc.net/problem/14502)               | 연구소                | 골드4     | 구현 / 이차원 / BFS / 조합    | 230104     | 230415 |      |
 | [9375](https://www.acmicpc.net/problem/9375)                 | 패션왕김해빈          | 실버3     | Hash / defaultdict            | 230104     |        |      |
 | [4358](https://www.acmicpc.net/problem/4358)                 | 생태학                | 실버2     | Hash / defaultdict / readline | 230104     |        |      |
 | [17298](https://www.acmicpc.net/problem/17298)               | 오큰수                | 골드4     | 구현 / stack                  | 230106     | ★      |      |
 | 17299                                                        | 오등큰수              | 골드3     |                               |            |        |      |
 | [2002](https://www.acmicpc.net/problem/2002)                 | 추월                  | 실버1     | 구현 / Hash                   | 230110     |        |      |
 | [2178](https://www.acmicpc.net/problem/2178)                 | 미로 탐색             | 실버1     | BFS / 최단거리                | 230110     | 230203 |      |
-| [15686](https://www.acmicpc.net/problem/15686)               | 치킨배달              | 골드5     | 구현 / 이차원 / 조합          | 230110     |        |      |
+| [15686](https://www.acmicpc.net/problem/15686)               | 치킨배달              | 골드5     | 구현 / 이차원 / 조합          | 230110     | 230415 |      |
 | [1932](https://www.acmicpc.net/problem/1932)                 | 정수삼각형            | 실버1     | DP                            | 230110     |        |      |
 | ~~[2839](https://www.acmicpc.net/problem/2839)~~             | ~~설탕배달~~          | ~~실버4~~ | ~~구현~~                      | ~~230110~~ |        |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | 완주하지못한선수      | LV1       | 구현 / Hash / Counter         | 230111     |        |      |

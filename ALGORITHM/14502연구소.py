@@ -10,11 +10,7 @@ dy = [0, -1, 0, 1]
 
 def BFS(comb):
     # virus_q 랑 arr 를 항상(매 조합마다) 최신화 해주어야 함
-    global virus
-    virus_q = deque([])
-    for i in virus:
-        virus_q.append(i)
-
+    virus_q = deque(virus)
     arr = copy.deepcopy(tmp)
 
     for i in range(3):

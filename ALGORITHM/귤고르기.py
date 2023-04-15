@@ -26,20 +26,20 @@ def func(k, tangerine):
 def solution(k, tangerine):
     # [1, 3, 2, 5, 4, 5, 2, 3]
 
-    count = sorted(Counter(tangerine).items(), reverse=True, key=lambda x: x[1])
-    # [[3,2],[2,2],[5,2],[1,1],[4,1]]
-
-    # count = Counter(tangerine).most_common()
-    # [[3,2],[2,2],[5,2],[1,1],[4,1]]
-
-    # count = sorted(Counter(tangerine).items())
-    # [[1,1],[2,2],[3,2],[4,1],[5,2]]
+    # count = Counter(tangerine)
+    # {"1":1,"2":2,"3":2,"4":1,"5":2}
 
     # count = sorted(Counter(tangerine).values())
     # [1,1,2,2,2]
 
-    # count = Counter(tangerine)
-    # {"1":1,"2":2,"3":2,"4":1,"5":2}
+    # count = sorted(Counter(tangerine).items())
+    # [[1,1],[2,2],[3,2],[4,1],[5,2]]
+
+    count = Counter(tangerine).most_common()
+    # [[3,2],[2,2],[5,2],[1,1],[4,1]]
+
+    # count = sorted(Counter(tangerine).items(), reverse=True, key=lambda x: x[1])
+    # [[3,2],[2,2],[5,2],[1,1],[4,1]]
 
     answer = 0
     for i, cnt in count:
