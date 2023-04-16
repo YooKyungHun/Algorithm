@@ -3,11 +3,15 @@ def solution(park, routes):
 
     direct = {"E": (0, 1), "W": (0, -1), "N": (-1, 0), "S": (1, 0)}
 
+    flag = 0
     for i in range(N):
         for j in range(M):
             if park[i][j] == "S":
                 now_x, now_y = i, j
+                flag = 1
                 break
+        if flag:
+            break
 
     for route in routes:
         direction, distance = map(str, route.split())
