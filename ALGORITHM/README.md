@@ -105,9 +105,9 @@
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/70129?language=python3) | 이진 변환 반복하기          | LV2       | 2진수, bin                 | 230412     |            |      |
 | [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/172928#) | 공원산책                    | LV1       | 2차원 배열, 구현           | 230412     |            |      |
 | ~~[PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/92334)~~ | ~~신고결과받기~~            | ~~LV1~~   | ~~Hash~~                   | ~~230416~~ | X          | X    |
-|                                                              |                             |           |                            |            |            |      |
-|                                                              |                             |           |                            |            |            |      |
-|                                                              |                             |           |                            |            |            |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/12936#) | 줄서는 방법                 | LV2       | 구현                       | 230426     | ★          |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/161989#) | 덧칠하기                    | LV1       | 1차원 배열, 구현           | 230426     | ★          |      |
+| [PRGM](https://school.programmers.co.kr/learn/courses/30/lessons/133499) | 옹알이                      | LV1       | 문자열                     | 230426     |            |      |
 |                                                              |                             |           |                            |            |            |      |
 
 
