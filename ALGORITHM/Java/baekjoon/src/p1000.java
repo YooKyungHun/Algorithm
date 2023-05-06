@@ -1,15 +1,13 @@
 import java.util.Scanner;
 
-public class p_18108 {
-
+public class p1000 {
     public static void main(String[] args) {
-
         Scanner sc = new Scanner(System.in);
 
-        int inputYear = sc.nextInt();
+        int A = sc.nextInt();
+        int B = sc.nextInt();
 
-        System.out.println(inputYear - 543);
-
+        System.out.println(A + B);
         sc.close();
     }
 }

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class p_10430 {
+public class p10430 {
 
     public static void main(String[] args) {
 
